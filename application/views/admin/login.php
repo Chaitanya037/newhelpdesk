@@ -20,7 +20,7 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 <style type="text/css">
-.field-icon { float: right; margin-left: -19px; margin-top: 14px; position: relative; z-index: 2; }
+.field-icon { float: right; margin-left: -19px; margin-top: 14px; position: relative; z-index: 2; right:8px; }
 </style>
 </head>
 

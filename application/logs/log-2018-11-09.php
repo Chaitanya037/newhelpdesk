@@ -5648,3 +5648,87 @@ INFO - 2018-11-09 12:22:52 --> Model "Login_model" initialized
 INFO - 2018-11-09 12:22:52 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
 INFO - 2018-11-09 12:22:52 --> Final output sent to browser
 DEBUG - 2018-11-09 12:22:52 --> Total execution time: 0.0704
+INFO - 2018-11-09 12:29:31 --> Config Class Initialized
+INFO - 2018-11-09 12:29:31 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:29:31 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:29:31 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:29:31 --> URI Class Initialized
+INFO - 2018-11-09 12:29:31 --> Router Class Initialized
+INFO - 2018-11-09 12:29:31 --> Output Class Initialized
+INFO - 2018-11-09 12:29:31 --> Security Class Initialized
+DEBUG - 2018-11-09 12:29:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:29:31 --> Input Class Initialized
+INFO - 2018-11-09 12:29:31 --> Language Class Initialized
+INFO - 2018-11-09 12:29:31 --> Loader Class Initialized
+INFO - 2018-11-09 12:29:31 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:29:31 --> Controller Class Initialized
+DEBUG - 2018-11-09 12:29:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-11-09 12:29:31 --> Session: Class initialized using 'files' driver.
+INFO - 2018-11-09 12:29:31 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:29:31 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:29:31 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:29:31 --> Final output sent to browser
+DEBUG - 2018-11-09 12:29:31 --> Total execution time: 0.1201
+INFO - 2018-11-09 12:29:58 --> Config Class Initialized
+INFO - 2018-11-09 12:29:58 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:29:58 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:29:58 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:29:58 --> URI Class Initialized
+INFO - 2018-11-09 12:29:58 --> Router Class Initialized
+INFO - 2018-11-09 12:29:58 --> Output Class Initialized
+INFO - 2018-11-09 12:29:58 --> Security Class Initialized
+DEBUG - 2018-11-09 12:29:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:29:58 --> Input Class Initialized
+INFO - 2018-11-09 12:29:58 --> Language Class Initialized
+INFO - 2018-11-09 12:29:58 --> Loader Class Initialized
+INFO - 2018-11-09 12:29:58 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:29:58 --> Controller Class Initialized
+DEBUG - 2018-11-09 12:29:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-11-09 12:29:58 --> Session: Class initialized using 'files' driver.
+INFO - 2018-11-09 12:29:58 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:29:58 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:29:58 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:29:58 --> Final output sent to browser
+DEBUG - 2018-11-09 12:29:58 --> Total execution time: 0.1094
+INFO - 2018-11-09 12:31:08 --> Config Class Initialized
+INFO - 2018-11-09 12:31:08 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:31:08 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:31:08 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:31:08 --> URI Class Initialized
+INFO - 2018-11-09 12:31:08 --> Router Class Initialized
+INFO - 2018-11-09 12:31:08 --> Output Class Initialized
+INFO - 2018-11-09 12:31:08 --> Security Class Initialized
+DEBUG - 2018-11-09 12:31:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:31:08 --> Input Class Initialized
+INFO - 2018-11-09 12:31:08 --> Language Class Initialized
+INFO - 2018-11-09 12:31:08 --> Loader Class Initialized
+INFO - 2018-11-09 12:31:08 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:31:08 --> Controller Class Initialized
+DEBUG - 2018-11-09 12:31:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-11-09 12:31:08 --> Session: Class initialized using 'files' driver.
+INFO - 2018-11-09 12:31:08 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:31:08 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:31:08 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:31:08 --> Final output sent to browser
+DEBUG - 2018-11-09 12:31:08 --> Total execution time: 0.0747
+INFO - 2018-11-09 12:34:32 --> Config Class Initialized
+INFO - 2018-11-09 12:34:32 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:34:32 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:34:32 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:34:32 --> URI Class Initialized
+INFO - 2018-11-09 12:34:32 --> Router Class Initialized
+INFO - 2018-11-09 12:34:32 --> Output Class Initialized
+INFO - 2018-11-09 12:34:32 --> Security Class Initialized
+DEBUG - 2018-11-09 12:34:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:34:32 --> Input Class Initialized
+INFO - 2018-11-09 12:34:32 --> Language Class Initialized
+INFO - 2018-11-09 12:34:32 --> Loader Class Initialized
+INFO - 2018-11-09 12:34:32 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:34:32 --> Controller Class Initialized
+DEBUG - 2018-11-09 12:34:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-11-09 12:34:32 --> Session: Class initialized using 'files' driver.
+INFO - 2018-11-09 12:34:32 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:34:32 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:34:32 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:34:32 --> Final output sent to browser
+DEBUG - 2018-11-09 12:34:32 --> Total execution time: 0.0733
