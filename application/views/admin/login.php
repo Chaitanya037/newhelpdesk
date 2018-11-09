@@ -19,6 +19,9 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
+<style type="text/css">
+.field-icon { float: right; margin-left: -19px; margin-top: 14px; position: relative; z-index: 2; }
+</style>
 </head>
 
 <body>
@@ -45,20 +48,21 @@
                         <span class="db"><img src="<?php echo BASE_URL; ?>assets/images/logo.png" alt="logo" /></span>
                     </div>
                     <!-- Form -->
-                    <form class="form-horizontal m-t-20" id="loginform" action="<?php echo BASE_URL; ?>/admin/Dashboard">
+                    <form class="form-horizontal m-t-20" method="post" id="loginform" action="<?php echo BASE_URL; ?>admin/Login/verifyLogin">
                         <div class="row p-b-30">
                             <div class="col-12">
                                 <div class="input-group mb-3">
                                     <div class="input-group-prepend">
                                         <span class="input-group-text bg-success text-white" id="basic-addon1"><i class="ti-user"></i></span>
                                     </div>
-                                    <input type="text" class="form-control form-control-lg" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" required="">
+                                    <input type="text" name="username" id="username" class="form-control form-control-lg" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" required="">
                                 </div>
                                 <div class="input-group mb-3">
                                     <div class="input-group-prepend">
                                         <span class="input-group-text bg-warning text-white" id="basic-addon2"><i class="ti-pencil"></i></span>
                                     </div>
-                                    <input type="text" class="form-control form-control-lg" placeholder="Password" aria-label="Password" aria-describedby="basic-addon1" required="">
+                                    <input type="password" name="userpwd" id="userpwd" class="form-control form-control-lg" placeholder="Password" aria-label="Password" aria-describedby="basic-addon1" required="">
+                                    <span toggle="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></span>
                                 </div>
                             </div>
                         </div>
@@ -123,27 +127,9 @@
     <!-- Bootstrap tether Core JavaScript -->
     <script src="<?php echo BASE_URL; ?>assets/libs/popper.js/dist/umd/popper.min.js"></script>
     <script src="<?php echo BASE_URL; ?>assets/libs/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="<?php echo BASE_URL; ?>assets/js/pages/Login/login.js"></script>
     <!-- ============================================================== -->
     <!-- This page plugin js -->
     <!-- ============================================================== -->
-    <script>
-
-    $('[data-toggle="tooltip"]').tooltip();
-    $(".preloader").fadeOut();
-    // ============================================================== 
-    // Login and Recover Password 
-    // ============================================================== 
-    $('#to-recover').on("click", function() {
-        $("#loginform").slideUp();
-        $("#recoverform").fadeIn();
-    });
-    $('#to-login').click(function(){
-        
-        $("#recoverform").hide();
-        $("#loginform").fadeIn();
-    });
-    </script>
-
 </body>
-
 </html>

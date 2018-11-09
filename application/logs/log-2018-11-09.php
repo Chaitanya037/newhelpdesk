@@ -3458,3 +3458,2193 @@ INFO - 2018-11-09 10:25:40 --> File loaded: E:\wamp64\www\practice\newhelpdesk\a
 INFO - 2018-11-09 10:25:40 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
 INFO - 2018-11-09 10:25:40 --> Final output sent to browser
 DEBUG - 2018-11-09 10:25:40 --> Total execution time: 0.0663
+INFO - 2018-11-09 10:28:59 --> Config Class Initialized
+INFO - 2018-11-09 10:28:59 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:28:59 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:28:59 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:28:59 --> URI Class Initialized
+INFO - 2018-11-09 10:28:59 --> Router Class Initialized
+INFO - 2018-11-09 10:28:59 --> Output Class Initialized
+INFO - 2018-11-09 10:28:59 --> Security Class Initialized
+DEBUG - 2018-11-09 10:28:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:28:59 --> Input Class Initialized
+INFO - 2018-11-09 10:28:59 --> Language Class Initialized
+INFO - 2018-11-09 10:28:59 --> Loader Class Initialized
+INFO - 2018-11-09 10:28:59 --> Controller Class Initialized
+INFO - 2018-11-09 10:28:59 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/header.php
+INFO - 2018-11-09 10:28:59 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/sidebar.php
+INFO - 2018-11-09 10:28:59 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/Dashboard/index.php
+INFO - 2018-11-09 10:28:59 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
+INFO - 2018-11-09 10:28:59 --> Final output sent to browser
+DEBUG - 2018-11-09 10:28:59 --> Total execution time: 0.1029
+INFO - 2018-11-09 10:29:08 --> Config Class Initialized
+INFO - 2018-11-09 10:29:08 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:29:08 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:29:08 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:29:08 --> URI Class Initialized
+INFO - 2018-11-09 10:29:08 --> Router Class Initialized
+INFO - 2018-11-09 10:29:08 --> Output Class Initialized
+INFO - 2018-11-09 10:29:08 --> Security Class Initialized
+DEBUG - 2018-11-09 10:29:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:29:08 --> Input Class Initialized
+INFO - 2018-11-09 10:29:08 --> Language Class Initialized
+ERROR - 2018-11-09 10:29:08 --> 404 Page Not Found: admin/Pages-elementshtml/index
+INFO - 2018-11-09 10:29:42 --> Config Class Initialized
+INFO - 2018-11-09 10:29:42 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:29:42 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:29:42 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:29:42 --> URI Class Initialized
+INFO - 2018-11-09 10:29:42 --> Router Class Initialized
+INFO - 2018-11-09 10:29:42 --> Output Class Initialized
+INFO - 2018-11-09 10:29:42 --> Security Class Initialized
+DEBUG - 2018-11-09 10:29:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:29:42 --> Input Class Initialized
+INFO - 2018-11-09 10:29:42 --> Language Class Initialized
+INFO - 2018-11-09 10:29:42 --> Loader Class Initialized
+INFO - 2018-11-09 10:29:42 --> Controller Class Initialized
+INFO - 2018-11-09 10:29:42 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/header.php
+INFO - 2018-11-09 10:29:42 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/sidebar.php
+INFO - 2018-11-09 10:29:42 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/Dashboard/index.php
+INFO - 2018-11-09 10:29:42 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
+INFO - 2018-11-09 10:29:42 --> Final output sent to browser
+DEBUG - 2018-11-09 10:29:42 --> Total execution time: 0.0565
+INFO - 2018-11-09 10:31:20 --> Config Class Initialized
+INFO - 2018-11-09 10:31:20 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:31:20 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:31:20 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:31:20 --> URI Class Initialized
+INFO - 2018-11-09 10:31:20 --> Router Class Initialized
+INFO - 2018-11-09 10:31:20 --> Output Class Initialized
+INFO - 2018-11-09 10:31:20 --> Security Class Initialized
+DEBUG - 2018-11-09 10:31:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:31:20 --> Input Class Initialized
+INFO - 2018-11-09 10:31:20 --> Language Class Initialized
+INFO - 2018-11-09 10:31:20 --> Loader Class Initialized
+INFO - 2018-11-09 10:31:20 --> Controller Class Initialized
+INFO - 2018-11-09 10:31:20 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/header.php
+INFO - 2018-11-09 10:31:20 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/sidebar.php
+INFO - 2018-11-09 10:31:20 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/Dashboard/index.php
+INFO - 2018-11-09 10:31:20 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
+INFO - 2018-11-09 10:31:20 --> Final output sent to browser
+DEBUG - 2018-11-09 10:31:20 --> Total execution time: 0.0858
+INFO - 2018-11-09 10:31:23 --> Config Class Initialized
+INFO - 2018-11-09 10:31:23 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:31:23 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:31:23 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:31:23 --> URI Class Initialized
+INFO - 2018-11-09 10:31:23 --> Router Class Initialized
+INFO - 2018-11-09 10:31:23 --> Output Class Initialized
+INFO - 2018-11-09 10:31:23 --> Security Class Initialized
+DEBUG - 2018-11-09 10:31:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:31:23 --> Input Class Initialized
+INFO - 2018-11-09 10:31:23 --> Language Class Initialized
+INFO - 2018-11-09 10:31:23 --> Loader Class Initialized
+INFO - 2018-11-09 10:31:23 --> Controller Class Initialized
+INFO - 2018-11-09 10:31:23 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/header.php
+INFO - 2018-11-09 10:31:23 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/sidebar.php
+INFO - 2018-11-09 10:31:23 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/Users/index.php
+INFO - 2018-11-09 10:31:23 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
+INFO - 2018-11-09 10:31:23 --> Final output sent to browser
+DEBUG - 2018-11-09 10:31:23 --> Total execution time: 0.0598
+INFO - 2018-11-09 10:34:23 --> Config Class Initialized
+INFO - 2018-11-09 10:34:23 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:34:23 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:34:23 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:34:23 --> URI Class Initialized
+INFO - 2018-11-09 10:34:23 --> Router Class Initialized
+INFO - 2018-11-09 10:34:23 --> Output Class Initialized
+INFO - 2018-11-09 10:34:23 --> Security Class Initialized
+DEBUG - 2018-11-09 10:34:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:34:23 --> Input Class Initialized
+INFO - 2018-11-09 10:34:23 --> Language Class Initialized
+INFO - 2018-11-09 10:34:23 --> Loader Class Initialized
+INFO - 2018-11-09 10:34:23 --> Controller Class Initialized
+INFO - 2018-11-09 10:34:23 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/header.php
+INFO - 2018-11-09 10:34:23 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/sidebar.php
+INFO - 2018-11-09 10:34:23 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/Users/index.php
+INFO - 2018-11-09 10:34:23 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
+INFO - 2018-11-09 10:34:23 --> Final output sent to browser
+DEBUG - 2018-11-09 10:34:23 --> Total execution time: 0.0605
+INFO - 2018-11-09 10:34:27 --> Config Class Initialized
+INFO - 2018-11-09 10:34:27 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:34:27 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:34:27 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:34:27 --> URI Class Initialized
+INFO - 2018-11-09 10:34:27 --> Router Class Initialized
+INFO - 2018-11-09 10:34:27 --> Output Class Initialized
+INFO - 2018-11-09 10:34:27 --> Security Class Initialized
+DEBUG - 2018-11-09 10:34:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:34:27 --> Input Class Initialized
+INFO - 2018-11-09 10:34:27 --> Language Class Initialized
+INFO - 2018-11-09 10:34:27 --> Loader Class Initialized
+INFO - 2018-11-09 10:34:27 --> Controller Class Initialized
+INFO - 2018-11-09 10:34:27 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/header.php
+INFO - 2018-11-09 10:34:27 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/sidebar.php
+INFO - 2018-11-09 10:34:27 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/Users/index.php
+INFO - 2018-11-09 10:34:27 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
+INFO - 2018-11-09 10:34:27 --> Final output sent to browser
+DEBUG - 2018-11-09 10:34:27 --> Total execution time: 0.0680
+INFO - 2018-11-09 10:34:57 --> Config Class Initialized
+INFO - 2018-11-09 10:34:57 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:34:57 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:34:57 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:34:57 --> URI Class Initialized
+INFO - 2018-11-09 10:34:57 --> Router Class Initialized
+INFO - 2018-11-09 10:34:57 --> Output Class Initialized
+INFO - 2018-11-09 10:34:57 --> Security Class Initialized
+DEBUG - 2018-11-09 10:34:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:34:57 --> Input Class Initialized
+INFO - 2018-11-09 10:34:57 --> Language Class Initialized
+INFO - 2018-11-09 10:34:57 --> Loader Class Initialized
+INFO - 2018-11-09 10:34:57 --> Controller Class Initialized
+INFO - 2018-11-09 10:34:57 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/header.php
+INFO - 2018-11-09 10:34:57 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/sidebar.php
+INFO - 2018-11-09 10:34:57 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/Users/index.php
+INFO - 2018-11-09 10:34:57 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
+INFO - 2018-11-09 10:34:57 --> Final output sent to browser
+DEBUG - 2018-11-09 10:34:57 --> Total execution time: 0.0557
+INFO - 2018-11-09 10:45:43 --> Config Class Initialized
+INFO - 2018-11-09 10:45:43 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:45:43 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:45:43 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:45:43 --> URI Class Initialized
+DEBUG - 2018-11-09 10:45:43 --> No URI present. Default controller set.
+INFO - 2018-11-09 10:45:43 --> Router Class Initialized
+INFO - 2018-11-09 10:45:43 --> Output Class Initialized
+INFO - 2018-11-09 10:45:43 --> Security Class Initialized
+DEBUG - 2018-11-09 10:45:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:45:43 --> Input Class Initialized
+INFO - 2018-11-09 10:45:44 --> Language Class Initialized
+INFO - 2018-11-09 10:45:44 --> Loader Class Initialized
+INFO - 2018-11-09 10:45:44 --> Controller Class Initialized
+INFO - 2018-11-09 10:45:44 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\welcome_message.php
+INFO - 2018-11-09 10:45:44 --> Final output sent to browser
+DEBUG - 2018-11-09 10:45:44 --> Total execution time: 0.0988
+INFO - 2018-11-09 10:45:49 --> Config Class Initialized
+INFO - 2018-11-09 10:45:49 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:45:49 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:45:49 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:45:49 --> URI Class Initialized
+INFO - 2018-11-09 10:45:49 --> Router Class Initialized
+INFO - 2018-11-09 10:45:49 --> Output Class Initialized
+INFO - 2018-11-09 10:45:49 --> Security Class Initialized
+DEBUG - 2018-11-09 10:45:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:45:49 --> Input Class Initialized
+INFO - 2018-11-09 10:45:49 --> Language Class Initialized
+INFO - 2018-11-09 10:45:49 --> Loader Class Initialized
+INFO - 2018-11-09 10:45:49 --> Controller Class Initialized
+INFO - 2018-11-09 10:45:49 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 10:45:49 --> Final output sent to browser
+DEBUG - 2018-11-09 10:45:49 --> Total execution time: 0.0527
+INFO - 2018-11-09 10:46:02 --> Config Class Initialized
+INFO - 2018-11-09 10:46:02 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:46:02 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:46:02 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:46:02 --> URI Class Initialized
+INFO - 2018-11-09 10:46:02 --> Router Class Initialized
+INFO - 2018-11-09 10:46:02 --> Output Class Initialized
+INFO - 2018-11-09 10:46:02 --> Security Class Initialized
+DEBUG - 2018-11-09 10:46:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:46:02 --> Input Class Initialized
+INFO - 2018-11-09 10:46:02 --> Language Class Initialized
+INFO - 2018-11-09 10:46:02 --> Loader Class Initialized
+INFO - 2018-11-09 10:46:02 --> Controller Class Initialized
+INFO - 2018-11-09 10:46:02 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 10:46:02 --> Final output sent to browser
+DEBUG - 2018-11-09 10:46:02 --> Total execution time: 0.0913
+INFO - 2018-11-09 10:53:08 --> Config Class Initialized
+INFO - 2018-11-09 10:53:08 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:53:08 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:53:08 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:53:08 --> URI Class Initialized
+INFO - 2018-11-09 10:53:08 --> Router Class Initialized
+INFO - 2018-11-09 10:53:08 --> Output Class Initialized
+INFO - 2018-11-09 10:53:08 --> Security Class Initialized
+DEBUG - 2018-11-09 10:53:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:53:08 --> Input Class Initialized
+INFO - 2018-11-09 10:53:08 --> Language Class Initialized
+INFO - 2018-11-09 10:53:08 --> Loader Class Initialized
+INFO - 2018-11-09 10:53:08 --> Controller Class Initialized
+INFO - 2018-11-09 10:53:08 --> Database Driver Class Initialized
+INFO - 2018-11-09 10:53:10 --> Model "Login_model" initialized
+INFO - 2018-11-09 10:53:11 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 10:53:11 --> Final output sent to browser
+DEBUG - 2018-11-09 10:53:11 --> Total execution time: 2.5274
+INFO - 2018-11-09 10:53:47 --> Config Class Initialized
+INFO - 2018-11-09 10:53:48 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:53:48 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:53:48 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:53:48 --> URI Class Initialized
+INFO - 2018-11-09 10:53:48 --> Router Class Initialized
+INFO - 2018-11-09 10:53:48 --> Output Class Initialized
+INFO - 2018-11-09 10:53:48 --> Security Class Initialized
+DEBUG - 2018-11-09 10:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:53:48 --> Input Class Initialized
+INFO - 2018-11-09 10:53:48 --> Language Class Initialized
+INFO - 2018-11-09 10:53:48 --> Loader Class Initialized
+INFO - 2018-11-09 10:53:48 --> Controller Class Initialized
+INFO - 2018-11-09 10:53:48 --> Database Driver Class Initialized
+INFO - 2018-11-09 10:53:48 --> Model "Login_model" initialized
+INFO - 2018-11-09 10:53:48 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 10:53:48 --> Final output sent to browser
+DEBUG - 2018-11-09 10:53:48 --> Total execution time: 0.1175
+INFO - 2018-11-09 10:54:02 --> Config Class Initialized
+INFO - 2018-11-09 10:54:02 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:54:02 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:54:02 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:54:02 --> URI Class Initialized
+INFO - 2018-11-09 10:54:02 --> Router Class Initialized
+INFO - 2018-11-09 10:54:02 --> Output Class Initialized
+INFO - 2018-11-09 10:54:02 --> Security Class Initialized
+DEBUG - 2018-11-09 10:54:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:54:02 --> Input Class Initialized
+INFO - 2018-11-09 10:54:02 --> Language Class Initialized
+INFO - 2018-11-09 10:54:02 --> Loader Class Initialized
+INFO - 2018-11-09 10:54:02 --> Controller Class Initialized
+INFO - 2018-11-09 10:54:02 --> Database Driver Class Initialized
+INFO - 2018-11-09 10:54:02 --> Model "Login_model" initialized
+INFO - 2018-11-09 10:54:02 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 10:54:02 --> Final output sent to browser
+DEBUG - 2018-11-09 10:54:02 --> Total execution time: 0.0952
+INFO - 2018-11-09 10:54:07 --> Config Class Initialized
+INFO - 2018-11-09 10:54:07 --> Hooks Class Initialized
+DEBUG - 2018-11-09 10:54:07 --> UTF-8 Support Enabled
+INFO - 2018-11-09 10:54:07 --> Utf8 Class Initialized
+INFO - 2018-11-09 10:54:07 --> URI Class Initialized
+INFO - 2018-11-09 10:54:07 --> Router Class Initialized
+INFO - 2018-11-09 10:54:07 --> Output Class Initialized
+INFO - 2018-11-09 10:54:07 --> Security Class Initialized
+DEBUG - 2018-11-09 10:54:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 10:54:07 --> Input Class Initialized
+INFO - 2018-11-09 10:54:07 --> Language Class Initialized
+INFO - 2018-11-09 10:54:07 --> Loader Class Initialized
+INFO - 2018-11-09 10:54:07 --> Controller Class Initialized
+INFO - 2018-11-09 10:54:07 --> Database Driver Class Initialized
+INFO - 2018-11-09 10:54:07 --> Model "Login_model" initialized
+INFO - 2018-11-09 10:54:07 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 10:54:07 --> Final output sent to browser
+DEBUG - 2018-11-09 10:54:07 --> Total execution time: 0.0778
+INFO - 2018-11-09 11:03:01 --> Config Class Initialized
+INFO - 2018-11-09 11:03:01 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:03:01 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:03:01 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:03:01 --> URI Class Initialized
+INFO - 2018-11-09 11:03:01 --> Router Class Initialized
+INFO - 2018-11-09 11:03:01 --> Output Class Initialized
+INFO - 2018-11-09 11:03:01 --> Security Class Initialized
+DEBUG - 2018-11-09 11:03:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:03:01 --> Input Class Initialized
+INFO - 2018-11-09 11:03:01 --> Language Class Initialized
+INFO - 2018-11-09 11:03:01 --> Loader Class Initialized
+INFO - 2018-11-09 11:03:01 --> Controller Class Initialized
+INFO - 2018-11-09 11:03:01 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:03:01 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:03:01 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:03:01 --> Final output sent to browser
+DEBUG - 2018-11-09 11:03:01 --> Total execution time: 0.0654
+INFO - 2018-11-09 11:03:13 --> Config Class Initialized
+INFO - 2018-11-09 11:03:13 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:03:13 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:03:13 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:03:13 --> URI Class Initialized
+INFO - 2018-11-09 11:03:13 --> Router Class Initialized
+INFO - 2018-11-09 11:03:13 --> Output Class Initialized
+INFO - 2018-11-09 11:03:13 --> Security Class Initialized
+DEBUG - 2018-11-09 11:03:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:03:13 --> Input Class Initialized
+INFO - 2018-11-09 11:03:13 --> Language Class Initialized
+INFO - 2018-11-09 11:03:13 --> Loader Class Initialized
+INFO - 2018-11-09 11:03:13 --> Controller Class Initialized
+INFO - 2018-11-09 11:03:13 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:03:13 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:03:13 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:03:13 --> Final output sent to browser
+DEBUG - 2018-11-09 11:03:13 --> Total execution time: 0.0683
+INFO - 2018-11-09 11:03:18 --> Config Class Initialized
+INFO - 2018-11-09 11:03:18 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:03:18 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:03:18 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:03:18 --> URI Class Initialized
+INFO - 2018-11-09 11:03:18 --> Router Class Initialized
+INFO - 2018-11-09 11:03:18 --> Output Class Initialized
+INFO - 2018-11-09 11:03:18 --> Security Class Initialized
+DEBUG - 2018-11-09 11:03:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:03:18 --> Input Class Initialized
+INFO - 2018-11-09 11:03:18 --> Language Class Initialized
+INFO - 2018-11-09 11:03:18 --> Loader Class Initialized
+INFO - 2018-11-09 11:03:18 --> Controller Class Initialized
+INFO - 2018-11-09 11:03:18 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:03:18 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:03:18 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:03:18 --> Final output sent to browser
+DEBUG - 2018-11-09 11:03:18 --> Total execution time: 0.0749
+INFO - 2018-11-09 11:07:21 --> Config Class Initialized
+INFO - 2018-11-09 11:07:21 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:07:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:07:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:07:21 --> URI Class Initialized
+INFO - 2018-11-09 11:07:21 --> Router Class Initialized
+INFO - 2018-11-09 11:07:21 --> Output Class Initialized
+INFO - 2018-11-09 11:07:21 --> Security Class Initialized
+DEBUG - 2018-11-09 11:07:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:07:21 --> Input Class Initialized
+INFO - 2018-11-09 11:07:21 --> Language Class Initialized
+INFO - 2018-11-09 11:07:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:07:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:07:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:07:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:07:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:07:21 --> Final output sent to browser
+DEBUG - 2018-11-09 11:07:21 --> Total execution time: 0.0984
+INFO - 2018-11-09 11:07:23 --> Config Class Initialized
+INFO - 2018-11-09 11:07:23 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:07:23 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:07:23 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:07:23 --> URI Class Initialized
+INFO - 2018-11-09 11:07:23 --> Router Class Initialized
+INFO - 2018-11-09 11:07:23 --> Output Class Initialized
+INFO - 2018-11-09 11:07:23 --> Security Class Initialized
+DEBUG - 2018-11-09 11:07:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:07:23 --> Input Class Initialized
+INFO - 2018-11-09 11:07:23 --> Language Class Initialized
+INFO - 2018-11-09 11:07:23 --> Loader Class Initialized
+INFO - 2018-11-09 11:07:23 --> Controller Class Initialized
+INFO - 2018-11-09 11:07:23 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:07:23 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:07:23 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:07:23 --> Final output sent to browser
+DEBUG - 2018-11-09 11:07:23 --> Total execution time: 0.0629
+INFO - 2018-11-09 11:12:32 --> Config Class Initialized
+INFO - 2018-11-09 11:12:32 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:12:32 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:12:32 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:12:32 --> URI Class Initialized
+INFO - 2018-11-09 11:12:32 --> Router Class Initialized
+INFO - 2018-11-09 11:12:32 --> Output Class Initialized
+INFO - 2018-11-09 11:12:32 --> Security Class Initialized
+DEBUG - 2018-11-09 11:12:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:12:32 --> Input Class Initialized
+INFO - 2018-11-09 11:12:32 --> Language Class Initialized
+INFO - 2018-11-09 11:12:32 --> Loader Class Initialized
+INFO - 2018-11-09 11:12:32 --> Controller Class Initialized
+INFO - 2018-11-09 11:12:32 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:12:32 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:12:32 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:12:32 --> Final output sent to browser
+DEBUG - 2018-11-09 11:12:32 --> Total execution time: 0.1030
+INFO - 2018-11-09 11:14:25 --> Config Class Initialized
+INFO - 2018-11-09 11:14:25 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:14:25 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:14:25 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:14:25 --> URI Class Initialized
+INFO - 2018-11-09 11:14:25 --> Router Class Initialized
+INFO - 2018-11-09 11:14:25 --> Output Class Initialized
+INFO - 2018-11-09 11:14:25 --> Security Class Initialized
+DEBUG - 2018-11-09 11:14:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:14:25 --> Input Class Initialized
+INFO - 2018-11-09 11:14:25 --> Language Class Initialized
+INFO - 2018-11-09 11:14:25 --> Loader Class Initialized
+INFO - 2018-11-09 11:14:25 --> Controller Class Initialized
+INFO - 2018-11-09 11:14:25 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:14:25 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:14:25 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:14:25 --> Final output sent to browser
+DEBUG - 2018-11-09 11:14:25 --> Total execution time: 0.0695
+INFO - 2018-11-09 11:15:24 --> Config Class Initialized
+INFO - 2018-11-09 11:15:24 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:15:25 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:15:25 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:15:25 --> URI Class Initialized
+INFO - 2018-11-09 11:15:25 --> Router Class Initialized
+INFO - 2018-11-09 11:15:25 --> Output Class Initialized
+INFO - 2018-11-09 11:15:25 --> Security Class Initialized
+DEBUG - 2018-11-09 11:15:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:15:25 --> Input Class Initialized
+INFO - 2018-11-09 11:15:25 --> Language Class Initialized
+INFO - 2018-11-09 11:15:25 --> Loader Class Initialized
+INFO - 2018-11-09 11:15:25 --> Controller Class Initialized
+INFO - 2018-11-09 11:15:25 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:15:25 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:15:25 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:15:25 --> Final output sent to browser
+DEBUG - 2018-11-09 11:15:25 --> Total execution time: 0.0687
+INFO - 2018-11-09 11:15:37 --> Config Class Initialized
+INFO - 2018-11-09 11:15:37 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:15:37 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:15:37 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:15:37 --> URI Class Initialized
+INFO - 2018-11-09 11:15:37 --> Router Class Initialized
+INFO - 2018-11-09 11:15:37 --> Output Class Initialized
+INFO - 2018-11-09 11:15:37 --> Security Class Initialized
+DEBUG - 2018-11-09 11:15:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:15:37 --> Input Class Initialized
+INFO - 2018-11-09 11:15:37 --> Language Class Initialized
+INFO - 2018-11-09 11:15:37 --> Loader Class Initialized
+INFO - 2018-11-09 11:15:37 --> Controller Class Initialized
+INFO - 2018-11-09 11:15:37 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:15:37 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:15:37 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:15:37 --> Final output sent to browser
+DEBUG - 2018-11-09 11:15:37 --> Total execution time: 0.1180
+INFO - 2018-11-09 11:15:42 --> Config Class Initialized
+INFO - 2018-11-09 11:15:42 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:15:42 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:15:42 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:15:42 --> URI Class Initialized
+INFO - 2018-11-09 11:15:42 --> Router Class Initialized
+INFO - 2018-11-09 11:15:42 --> Output Class Initialized
+INFO - 2018-11-09 11:15:43 --> Security Class Initialized
+DEBUG - 2018-11-09 11:15:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:15:43 --> Input Class Initialized
+INFO - 2018-11-09 11:15:43 --> Language Class Initialized
+INFO - 2018-11-09 11:15:43 --> Loader Class Initialized
+INFO - 2018-11-09 11:15:43 --> Controller Class Initialized
+INFO - 2018-11-09 11:15:43 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:15:43 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:15:43 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:15:43 --> Final output sent to browser
+DEBUG - 2018-11-09 11:15:43 --> Total execution time: 0.0742
+INFO - 2018-11-09 11:16:17 --> Config Class Initialized
+INFO - 2018-11-09 11:16:17 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:16:17 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:16:17 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:16:17 --> URI Class Initialized
+INFO - 2018-11-09 11:16:17 --> Router Class Initialized
+INFO - 2018-11-09 11:16:17 --> Output Class Initialized
+INFO - 2018-11-09 11:16:17 --> Security Class Initialized
+DEBUG - 2018-11-09 11:16:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:16:17 --> Input Class Initialized
+INFO - 2018-11-09 11:16:17 --> Language Class Initialized
+INFO - 2018-11-09 11:16:17 --> Loader Class Initialized
+INFO - 2018-11-09 11:16:17 --> Controller Class Initialized
+INFO - 2018-11-09 11:16:17 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:16:17 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:16:17 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:16:17 --> Final output sent to browser
+DEBUG - 2018-11-09 11:16:17 --> Total execution time: 0.1089
+INFO - 2018-11-09 11:16:29 --> Config Class Initialized
+INFO - 2018-11-09 11:16:29 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:16:29 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:16:29 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:16:29 --> URI Class Initialized
+INFO - 2018-11-09 11:16:29 --> Router Class Initialized
+INFO - 2018-11-09 11:16:29 --> Output Class Initialized
+INFO - 2018-11-09 11:16:29 --> Security Class Initialized
+DEBUG - 2018-11-09 11:16:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:16:29 --> Input Class Initialized
+INFO - 2018-11-09 11:16:29 --> Language Class Initialized
+INFO - 2018-11-09 11:16:29 --> Loader Class Initialized
+INFO - 2018-11-09 11:16:29 --> Controller Class Initialized
+INFO - 2018-11-09 11:16:29 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:16:29 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:16:29 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:16:29 --> Final output sent to browser
+DEBUG - 2018-11-09 11:16:29 --> Total execution time: 0.0899
+INFO - 2018-11-09 11:17:47 --> Config Class Initialized
+INFO - 2018-11-09 11:17:47 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:17:47 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:17:47 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:17:47 --> URI Class Initialized
+INFO - 2018-11-09 11:17:47 --> Router Class Initialized
+INFO - 2018-11-09 11:17:47 --> Output Class Initialized
+INFO - 2018-11-09 11:17:47 --> Security Class Initialized
+DEBUG - 2018-11-09 11:17:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:17:47 --> Input Class Initialized
+INFO - 2018-11-09 11:17:47 --> Language Class Initialized
+INFO - 2018-11-09 11:17:47 --> Loader Class Initialized
+INFO - 2018-11-09 11:17:47 --> Controller Class Initialized
+INFO - 2018-11-09 11:17:47 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:17:47 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:17:47 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:17:47 --> Final output sent to browser
+DEBUG - 2018-11-09 11:17:47 --> Total execution time: 0.1031
+INFO - 2018-11-09 11:17:56 --> Config Class Initialized
+INFO - 2018-11-09 11:17:56 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:17:56 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:17:56 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:17:56 --> URI Class Initialized
+INFO - 2018-11-09 11:17:56 --> Router Class Initialized
+INFO - 2018-11-09 11:17:56 --> Output Class Initialized
+INFO - 2018-11-09 11:17:56 --> Security Class Initialized
+DEBUG - 2018-11-09 11:17:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:17:56 --> Input Class Initialized
+INFO - 2018-11-09 11:17:56 --> Language Class Initialized
+INFO - 2018-11-09 11:17:56 --> Loader Class Initialized
+INFO - 2018-11-09 11:17:56 --> Controller Class Initialized
+INFO - 2018-11-09 11:17:56 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:17:56 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:17:56 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:17:56 --> Final output sent to browser
+DEBUG - 2018-11-09 11:17:56 --> Total execution time: 0.0717
+INFO - 2018-11-09 11:18:14 --> Config Class Initialized
+INFO - 2018-11-09 11:18:14 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:18:14 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:18:14 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:18:14 --> URI Class Initialized
+INFO - 2018-11-09 11:18:14 --> Router Class Initialized
+INFO - 2018-11-09 11:18:14 --> Output Class Initialized
+INFO - 2018-11-09 11:18:14 --> Security Class Initialized
+DEBUG - 2018-11-09 11:18:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:18:14 --> Input Class Initialized
+INFO - 2018-11-09 11:18:14 --> Language Class Initialized
+INFO - 2018-11-09 11:18:14 --> Loader Class Initialized
+INFO - 2018-11-09 11:18:14 --> Controller Class Initialized
+INFO - 2018-11-09 11:18:14 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:18:14 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:18:14 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:18:14 --> Final output sent to browser
+DEBUG - 2018-11-09 11:18:14 --> Total execution time: 0.0804
+INFO - 2018-11-09 11:18:15 --> Config Class Initialized
+INFO - 2018-11-09 11:18:15 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:18:15 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:18:15 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:18:15 --> URI Class Initialized
+INFO - 2018-11-09 11:18:15 --> Router Class Initialized
+INFO - 2018-11-09 11:18:15 --> Output Class Initialized
+INFO - 2018-11-09 11:18:15 --> Security Class Initialized
+DEBUG - 2018-11-09 11:18:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:18:15 --> Input Class Initialized
+INFO - 2018-11-09 11:18:15 --> Language Class Initialized
+INFO - 2018-11-09 11:18:15 --> Loader Class Initialized
+INFO - 2018-11-09 11:18:15 --> Controller Class Initialized
+INFO - 2018-11-09 11:18:15 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:18:15 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:18:15 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:18:15 --> Final output sent to browser
+DEBUG - 2018-11-09 11:18:15 --> Total execution time: 0.0799
+INFO - 2018-11-09 11:18:30 --> Config Class Initialized
+INFO - 2018-11-09 11:18:30 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:18:30 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:18:30 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:18:30 --> URI Class Initialized
+INFO - 2018-11-09 11:18:30 --> Router Class Initialized
+INFO - 2018-11-09 11:18:30 --> Output Class Initialized
+INFO - 2018-11-09 11:18:30 --> Security Class Initialized
+DEBUG - 2018-11-09 11:18:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:18:30 --> Input Class Initialized
+INFO - 2018-11-09 11:18:30 --> Language Class Initialized
+INFO - 2018-11-09 11:18:30 --> Loader Class Initialized
+INFO - 2018-11-09 11:18:30 --> Controller Class Initialized
+INFO - 2018-11-09 11:18:30 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:18:30 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:18:30 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:18:30 --> Final output sent to browser
+DEBUG - 2018-11-09 11:18:30 --> Total execution time: 0.0992
+INFO - 2018-11-09 11:19:12 --> Config Class Initialized
+INFO - 2018-11-09 11:19:12 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:19:12 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:19:12 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:19:12 --> URI Class Initialized
+INFO - 2018-11-09 11:19:12 --> Router Class Initialized
+INFO - 2018-11-09 11:19:12 --> Output Class Initialized
+INFO - 2018-11-09 11:19:12 --> Security Class Initialized
+DEBUG - 2018-11-09 11:19:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:19:12 --> Input Class Initialized
+INFO - 2018-11-09 11:19:12 --> Language Class Initialized
+INFO - 2018-11-09 11:19:12 --> Loader Class Initialized
+INFO - 2018-11-09 11:19:12 --> Controller Class Initialized
+INFO - 2018-11-09 11:19:12 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:19:12 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:19:12 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:19:12 --> Final output sent to browser
+DEBUG - 2018-11-09 11:19:12 --> Total execution time: 0.0740
+INFO - 2018-11-09 11:19:50 --> Config Class Initialized
+INFO - 2018-11-09 11:19:50 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:19:50 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:19:50 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:19:50 --> URI Class Initialized
+INFO - 2018-11-09 11:19:50 --> Router Class Initialized
+INFO - 2018-11-09 11:19:50 --> Output Class Initialized
+INFO - 2018-11-09 11:19:50 --> Security Class Initialized
+DEBUG - 2018-11-09 11:19:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:19:50 --> Input Class Initialized
+INFO - 2018-11-09 11:19:50 --> Language Class Initialized
+INFO - 2018-11-09 11:19:50 --> Loader Class Initialized
+INFO - 2018-11-09 11:19:50 --> Controller Class Initialized
+INFO - 2018-11-09 11:19:50 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:19:50 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:19:50 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:19:50 --> Final output sent to browser
+DEBUG - 2018-11-09 11:19:50 --> Total execution time: 0.0842
+INFO - 2018-11-09 11:20:23 --> Config Class Initialized
+INFO - 2018-11-09 11:20:23 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:20:23 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:20:23 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:20:23 --> URI Class Initialized
+INFO - 2018-11-09 11:20:23 --> Router Class Initialized
+INFO - 2018-11-09 11:20:23 --> Output Class Initialized
+INFO - 2018-11-09 11:20:23 --> Security Class Initialized
+DEBUG - 2018-11-09 11:20:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:20:23 --> Input Class Initialized
+INFO - 2018-11-09 11:20:23 --> Language Class Initialized
+INFO - 2018-11-09 11:20:23 --> Loader Class Initialized
+INFO - 2018-11-09 11:20:23 --> Controller Class Initialized
+INFO - 2018-11-09 11:20:23 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:20:23 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:20:23 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:20:23 --> Final output sent to browser
+DEBUG - 2018-11-09 11:20:23 --> Total execution time: 0.0620
+INFO - 2018-11-09 11:20:38 --> Config Class Initialized
+INFO - 2018-11-09 11:20:38 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:20:38 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:20:38 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:20:38 --> URI Class Initialized
+INFO - 2018-11-09 11:20:38 --> Router Class Initialized
+INFO - 2018-11-09 11:20:38 --> Output Class Initialized
+INFO - 2018-11-09 11:20:38 --> Security Class Initialized
+DEBUG - 2018-11-09 11:20:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:20:38 --> Input Class Initialized
+INFO - 2018-11-09 11:20:38 --> Language Class Initialized
+INFO - 2018-11-09 11:20:38 --> Loader Class Initialized
+INFO - 2018-11-09 11:20:38 --> Controller Class Initialized
+INFO - 2018-11-09 11:20:38 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:20:38 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:20:38 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:20:38 --> Final output sent to browser
+DEBUG - 2018-11-09 11:20:38 --> Total execution time: 0.0610
+INFO - 2018-11-09 11:20:46 --> Config Class Initialized
+INFO - 2018-11-09 11:20:46 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:20:46 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:20:46 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:20:46 --> URI Class Initialized
+INFO - 2018-11-09 11:20:46 --> Router Class Initialized
+INFO - 2018-11-09 11:20:46 --> Output Class Initialized
+INFO - 2018-11-09 11:20:46 --> Security Class Initialized
+DEBUG - 2018-11-09 11:20:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:20:46 --> Input Class Initialized
+INFO - 2018-11-09 11:20:46 --> Language Class Initialized
+INFO - 2018-11-09 11:20:46 --> Loader Class Initialized
+INFO - 2018-11-09 11:20:46 --> Controller Class Initialized
+INFO - 2018-11-09 11:20:46 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:20:46 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:20:46 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:20:46 --> Final output sent to browser
+DEBUG - 2018-11-09 11:20:46 --> Total execution time: 0.0670
+INFO - 2018-11-09 11:21:26 --> Config Class Initialized
+INFO - 2018-11-09 11:21:26 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:21:26 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:21:26 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:21:26 --> URI Class Initialized
+INFO - 2018-11-09 11:21:26 --> Router Class Initialized
+INFO - 2018-11-09 11:21:26 --> Output Class Initialized
+INFO - 2018-11-09 11:21:26 --> Security Class Initialized
+DEBUG - 2018-11-09 11:21:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:21:26 --> Input Class Initialized
+INFO - 2018-11-09 11:21:26 --> Language Class Initialized
+INFO - 2018-11-09 11:21:26 --> Loader Class Initialized
+INFO - 2018-11-09 11:21:26 --> Controller Class Initialized
+INFO - 2018-11-09 11:21:26 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:21:26 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:21:26 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:21:26 --> Final output sent to browser
+DEBUG - 2018-11-09 11:21:26 --> Total execution time: 0.0603
+INFO - 2018-11-09 11:21:43 --> Config Class Initialized
+INFO - 2018-11-09 11:21:43 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:21:43 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:21:43 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:21:43 --> URI Class Initialized
+INFO - 2018-11-09 11:21:43 --> Router Class Initialized
+INFO - 2018-11-09 11:21:43 --> Output Class Initialized
+INFO - 2018-11-09 11:21:43 --> Security Class Initialized
+DEBUG - 2018-11-09 11:21:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:21:43 --> Input Class Initialized
+INFO - 2018-11-09 11:21:43 --> Language Class Initialized
+INFO - 2018-11-09 11:21:43 --> Loader Class Initialized
+INFO - 2018-11-09 11:21:43 --> Controller Class Initialized
+INFO - 2018-11-09 11:21:43 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:21:43 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:21:43 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:21:43 --> Final output sent to browser
+DEBUG - 2018-11-09 11:21:43 --> Total execution time: 0.0785
+INFO - 2018-11-09 11:21:48 --> Config Class Initialized
+INFO - 2018-11-09 11:21:48 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:21:48 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:21:48 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:21:48 --> URI Class Initialized
+INFO - 2018-11-09 11:21:48 --> Router Class Initialized
+INFO - 2018-11-09 11:21:48 --> Output Class Initialized
+INFO - 2018-11-09 11:21:48 --> Security Class Initialized
+DEBUG - 2018-11-09 11:21:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:21:48 --> Input Class Initialized
+INFO - 2018-11-09 11:21:48 --> Language Class Initialized
+INFO - 2018-11-09 11:21:48 --> Loader Class Initialized
+INFO - 2018-11-09 11:21:48 --> Controller Class Initialized
+INFO - 2018-11-09 11:21:48 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:21:48 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:21:48 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:21:48 --> Final output sent to browser
+DEBUG - 2018-11-09 11:21:48 --> Total execution time: 0.0811
+INFO - 2018-11-09 11:21:54 --> Config Class Initialized
+INFO - 2018-11-09 11:21:54 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:21:54 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:21:54 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:21:54 --> URI Class Initialized
+INFO - 2018-11-09 11:21:54 --> Router Class Initialized
+INFO - 2018-11-09 11:21:54 --> Output Class Initialized
+INFO - 2018-11-09 11:21:54 --> Security Class Initialized
+DEBUG - 2018-11-09 11:21:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:21:54 --> Input Class Initialized
+INFO - 2018-11-09 11:21:54 --> Language Class Initialized
+INFO - 2018-11-09 11:21:54 --> Loader Class Initialized
+INFO - 2018-11-09 11:21:54 --> Controller Class Initialized
+INFO - 2018-11-09 11:21:54 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:21:54 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:21:54 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:21:54 --> Final output sent to browser
+DEBUG - 2018-11-09 11:21:54 --> Total execution time: 0.0647
+INFO - 2018-11-09 11:22:16 --> Config Class Initialized
+INFO - 2018-11-09 11:22:16 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:22:16 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:22:16 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:22:16 --> URI Class Initialized
+INFO - 2018-11-09 11:22:16 --> Router Class Initialized
+INFO - 2018-11-09 11:22:16 --> Output Class Initialized
+INFO - 2018-11-09 11:22:16 --> Security Class Initialized
+DEBUG - 2018-11-09 11:22:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:22:16 --> Input Class Initialized
+INFO - 2018-11-09 11:22:16 --> Language Class Initialized
+INFO - 2018-11-09 11:22:16 --> Loader Class Initialized
+INFO - 2018-11-09 11:22:16 --> Controller Class Initialized
+INFO - 2018-11-09 11:22:16 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:22:16 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:22:16 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:22:16 --> Final output sent to browser
+DEBUG - 2018-11-09 11:22:16 --> Total execution time: 0.0836
+INFO - 2018-11-09 11:24:06 --> Config Class Initialized
+INFO - 2018-11-09 11:24:06 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:24:06 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:24:06 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:24:06 --> URI Class Initialized
+INFO - 2018-11-09 11:24:06 --> Router Class Initialized
+INFO - 2018-11-09 11:24:06 --> Output Class Initialized
+INFO - 2018-11-09 11:24:06 --> Security Class Initialized
+DEBUG - 2018-11-09 11:24:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:24:06 --> Input Class Initialized
+INFO - 2018-11-09 11:24:06 --> Language Class Initialized
+INFO - 2018-11-09 11:24:06 --> Loader Class Initialized
+INFO - 2018-11-09 11:24:06 --> Controller Class Initialized
+INFO - 2018-11-09 11:24:06 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:24:06 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:24:06 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:24:06 --> Final output sent to browser
+DEBUG - 2018-11-09 11:24:06 --> Total execution time: 0.0602
+INFO - 2018-11-09 11:24:14 --> Config Class Initialized
+INFO - 2018-11-09 11:24:14 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:24:14 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:24:14 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:24:14 --> URI Class Initialized
+INFO - 2018-11-09 11:24:14 --> Router Class Initialized
+INFO - 2018-11-09 11:24:14 --> Output Class Initialized
+INFO - 2018-11-09 11:24:14 --> Security Class Initialized
+DEBUG - 2018-11-09 11:24:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:24:14 --> Input Class Initialized
+INFO - 2018-11-09 11:24:14 --> Language Class Initialized
+INFO - 2018-11-09 11:24:14 --> Loader Class Initialized
+INFO - 2018-11-09 11:24:14 --> Controller Class Initialized
+INFO - 2018-11-09 11:24:14 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/header.php
+INFO - 2018-11-09 11:24:14 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/sidebar.php
+INFO - 2018-11-09 11:24:14 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/Dashboard/index.php
+INFO - 2018-11-09 11:24:14 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
+INFO - 2018-11-09 11:24:14 --> Final output sent to browser
+DEBUG - 2018-11-09 11:24:14 --> Total execution time: 0.0542
+INFO - 2018-11-09 11:24:20 --> Config Class Initialized
+INFO - 2018-11-09 11:24:20 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:24:20 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:24:20 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:24:20 --> URI Class Initialized
+INFO - 2018-11-09 11:24:20 --> Router Class Initialized
+INFO - 2018-11-09 11:24:20 --> Output Class Initialized
+INFO - 2018-11-09 11:24:20 --> Security Class Initialized
+DEBUG - 2018-11-09 11:24:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:24:20 --> Input Class Initialized
+INFO - 2018-11-09 11:24:20 --> Language Class Initialized
+INFO - 2018-11-09 11:24:20 --> Loader Class Initialized
+INFO - 2018-11-09 11:24:20 --> Controller Class Initialized
+INFO - 2018-11-09 11:24:20 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:24:20 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:24:20 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:24:20 --> Final output sent to browser
+DEBUG - 2018-11-09 11:24:20 --> Total execution time: 0.0877
+INFO - 2018-11-09 11:24:55 --> Config Class Initialized
+INFO - 2018-11-09 11:24:55 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:24:55 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:24:55 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:24:55 --> URI Class Initialized
+INFO - 2018-11-09 11:24:55 --> Router Class Initialized
+INFO - 2018-11-09 11:24:55 --> Output Class Initialized
+INFO - 2018-11-09 11:24:55 --> Security Class Initialized
+DEBUG - 2018-11-09 11:24:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:24:55 --> Input Class Initialized
+INFO - 2018-11-09 11:24:55 --> Language Class Initialized
+INFO - 2018-11-09 11:24:55 --> Loader Class Initialized
+INFO - 2018-11-09 11:24:55 --> Controller Class Initialized
+INFO - 2018-11-09 11:24:55 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:24:55 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:24:55 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:24:55 --> Final output sent to browser
+DEBUG - 2018-11-09 11:24:55 --> Total execution time: 0.0621
+INFO - 2018-11-09 11:27:33 --> Config Class Initialized
+INFO - 2018-11-09 11:27:33 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:27:33 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:27:33 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:27:33 --> URI Class Initialized
+INFO - 2018-11-09 11:27:33 --> Router Class Initialized
+INFO - 2018-11-09 11:27:33 --> Output Class Initialized
+INFO - 2018-11-09 11:27:33 --> Security Class Initialized
+DEBUG - 2018-11-09 11:27:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:27:33 --> Input Class Initialized
+INFO - 2018-11-09 11:27:33 --> Language Class Initialized
+INFO - 2018-11-09 11:27:33 --> Loader Class Initialized
+INFO - 2018-11-09 11:27:33 --> Controller Class Initialized
+INFO - 2018-11-09 11:27:33 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:27:33 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:27:33 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:27:33 --> Final output sent to browser
+DEBUG - 2018-11-09 11:27:33 --> Total execution time: 0.0722
+INFO - 2018-11-09 11:28:56 --> Config Class Initialized
+INFO - 2018-11-09 11:28:56 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:28:56 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:28:56 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:28:56 --> URI Class Initialized
+INFO - 2018-11-09 11:28:56 --> Router Class Initialized
+INFO - 2018-11-09 11:28:56 --> Output Class Initialized
+INFO - 2018-11-09 11:28:56 --> Security Class Initialized
+DEBUG - 2018-11-09 11:28:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:28:56 --> Input Class Initialized
+INFO - 2018-11-09 11:28:56 --> Language Class Initialized
+INFO - 2018-11-09 11:28:56 --> Loader Class Initialized
+INFO - 2018-11-09 11:28:56 --> Controller Class Initialized
+INFO - 2018-11-09 11:28:56 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:28:56 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:28:56 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:28:56 --> Final output sent to browser
+DEBUG - 2018-11-09 11:28:56 --> Total execution time: 0.0621
+INFO - 2018-11-09 11:30:53 --> Config Class Initialized
+INFO - 2018-11-09 11:30:53 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:30:53 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:30:53 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:30:53 --> URI Class Initialized
+INFO - 2018-11-09 11:30:53 --> Router Class Initialized
+INFO - 2018-11-09 11:30:53 --> Output Class Initialized
+INFO - 2018-11-09 11:30:53 --> Security Class Initialized
+DEBUG - 2018-11-09 11:30:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:30:53 --> Input Class Initialized
+INFO - 2018-11-09 11:30:53 --> Language Class Initialized
+INFO - 2018-11-09 11:30:53 --> Loader Class Initialized
+INFO - 2018-11-09 11:30:53 --> Controller Class Initialized
+INFO - 2018-11-09 11:30:53 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:30:53 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:30:53 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:30:53 --> Final output sent to browser
+DEBUG - 2018-11-09 11:30:53 --> Total execution time: 0.0620
+INFO - 2018-11-09 11:32:20 --> Config Class Initialized
+INFO - 2018-11-09 11:32:20 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:32:20 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:20 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:20 --> URI Class Initialized
+INFO - 2018-11-09 11:32:20 --> Router Class Initialized
+INFO - 2018-11-09 11:32:20 --> Output Class Initialized
+INFO - 2018-11-09 11:32:20 --> Security Class Initialized
+DEBUG - 2018-11-09 11:32:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:20 --> Input Class Initialized
+INFO - 2018-11-09 11:32:20 --> Language Class Initialized
+INFO - 2018-11-09 11:32:20 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:20 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:20 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:20 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:20 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:20 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:20 --> Total execution time: 0.0629
+INFO - 2018-11-09 11:32:20 --> Config Class Initialized
+INFO - 2018-11-09 11:32:20 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0879
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.1364
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.1060
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0981
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0752
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0884
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0723
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0672
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0738
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0710
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0649
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0733
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0682
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0721
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0727
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0652
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0697
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0656
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+INFO - 2018-11-09 11:32:21 --> Config Class Initialized
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:21 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:21 --> URI Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Router Class Initialized
+INFO - 2018-11-09 11:32:21 --> Output Class Initialized
+INFO - 2018-11-09 11:32:21 --> Security Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+DEBUG - 2018-11-09 11:32:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Input Class Initialized
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+INFO - 2018-11-09 11:32:21 --> Language Class Initialized
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0725
+INFO - 2018-11-09 11:32:21 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:21 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:21 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:21 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:21 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:21 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:21 --> Total execution time: 0.0678
+INFO - 2018-11-09 11:32:32 --> Config Class Initialized
+INFO - 2018-11-09 11:32:32 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:32:32 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:32 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:32 --> URI Class Initialized
+INFO - 2018-11-09 11:32:32 --> Router Class Initialized
+INFO - 2018-11-09 11:32:32 --> Output Class Initialized
+INFO - 2018-11-09 11:32:32 --> Security Class Initialized
+DEBUG - 2018-11-09 11:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:32 --> Input Class Initialized
+INFO - 2018-11-09 11:32:32 --> Language Class Initialized
+INFO - 2018-11-09 11:32:32 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:32 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:32 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:32 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:32 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:32 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:32 --> Total execution time: 0.0568
+INFO - 2018-11-09 11:32:32 --> Config Class Initialized
+INFO - 2018-11-09 11:32:32 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:32:32 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:32 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:32 --> URI Class Initialized
+INFO - 2018-11-09 11:32:32 --> Router Class Initialized
+INFO - 2018-11-09 11:32:32 --> Output Class Initialized
+INFO - 2018-11-09 11:32:32 --> Security Class Initialized
+DEBUG - 2018-11-09 11:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:32 --> Input Class Initialized
+INFO - 2018-11-09 11:32:32 --> Language Class Initialized
+INFO - 2018-11-09 11:32:32 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:32 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:32 --> Config Class Initialized
+INFO - 2018-11-09 11:32:32 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:32 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:32:32 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:32 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:32 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:32 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:32 --> URI Class Initialized
+INFO - 2018-11-09 11:32:32 --> Final output sent to browser
+INFO - 2018-11-09 11:32:32 --> Router Class Initialized
+DEBUG - 2018-11-09 11:32:32 --> Total execution time: 0.0771
+INFO - 2018-11-09 11:32:32 --> Output Class Initialized
+INFO - 2018-11-09 11:32:32 --> Security Class Initialized
+DEBUG - 2018-11-09 11:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:32 --> Input Class Initialized
+INFO - 2018-11-09 11:32:32 --> Language Class Initialized
+INFO - 2018-11-09 11:32:32 --> Config Class Initialized
+INFO - 2018-11-09 11:32:32 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:32 --> Loader Class Initialized
+DEBUG - 2018-11-09 11:32:32 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:32 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:32 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:32 --> URI Class Initialized
+INFO - 2018-11-09 11:32:32 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:32 --> Router Class Initialized
+INFO - 2018-11-09 11:32:32 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:32 --> Output Class Initialized
+INFO - 2018-11-09 11:32:32 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:32 --> Security Class Initialized
+INFO - 2018-11-09 11:32:32 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:32 --> Total execution time: 0.0763
+DEBUG - 2018-11-09 11:32:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:32 --> Input Class Initialized
+INFO - 2018-11-09 11:32:32 --> Config Class Initialized
+INFO - 2018-11-09 11:32:32 --> Hooks Class Initialized
+INFO - 2018-11-09 11:32:32 --> Language Class Initialized
+DEBUG - 2018-11-09 11:32:32 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:32 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:32 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:32 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:32 --> URI Class Initialized
+INFO - 2018-11-09 11:32:32 --> Router Class Initialized
+INFO - 2018-11-09 11:32:32 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:32 --> Output Class Initialized
+INFO - 2018-11-09 11:32:32 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:32 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:32 --> Security Class Initialized
+INFO - 2018-11-09 11:32:32 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-11-09 11:32:32 --> Total execution time: 0.0665
+INFO - 2018-11-09 11:32:32 --> Input Class Initialized
+INFO - 2018-11-09 11:32:32 --> Language Class Initialized
+INFO - 2018-11-09 11:32:32 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:32 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:32 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:32 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:32 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:32 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:32 --> Total execution time: 0.0811
+INFO - 2018-11-09 11:32:40 --> Config Class Initialized
+INFO - 2018-11-09 11:32:40 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:32:40 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:32:40 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:32:40 --> URI Class Initialized
+INFO - 2018-11-09 11:32:40 --> Router Class Initialized
+INFO - 2018-11-09 11:32:40 --> Output Class Initialized
+INFO - 2018-11-09 11:32:40 --> Security Class Initialized
+DEBUG - 2018-11-09 11:32:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:32:40 --> Input Class Initialized
+INFO - 2018-11-09 11:32:40 --> Language Class Initialized
+INFO - 2018-11-09 11:32:40 --> Loader Class Initialized
+INFO - 2018-11-09 11:32:40 --> Controller Class Initialized
+INFO - 2018-11-09 11:32:40 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:32:40 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:32:40 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:32:40 --> Final output sent to browser
+DEBUG - 2018-11-09 11:32:40 --> Total execution time: 0.0748
+INFO - 2018-11-09 11:33:04 --> Config Class Initialized
+INFO - 2018-11-09 11:33:04 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:33:04 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:33:04 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:33:04 --> URI Class Initialized
+INFO - 2018-11-09 11:33:04 --> Router Class Initialized
+INFO - 2018-11-09 11:33:04 --> Output Class Initialized
+INFO - 2018-11-09 11:33:04 --> Security Class Initialized
+DEBUG - 2018-11-09 11:33:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:33:04 --> Input Class Initialized
+INFO - 2018-11-09 11:33:04 --> Language Class Initialized
+INFO - 2018-11-09 11:33:04 --> Loader Class Initialized
+INFO - 2018-11-09 11:33:04 --> Controller Class Initialized
+INFO - 2018-11-09 11:33:04 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:33:04 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:33:04 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:33:04 --> Final output sent to browser
+DEBUG - 2018-11-09 11:33:04 --> Total execution time: 0.0714
+INFO - 2018-11-09 11:33:07 --> Config Class Initialized
+INFO - 2018-11-09 11:33:07 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:33:07 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:33:07 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:33:07 --> URI Class Initialized
+INFO - 2018-11-09 11:33:07 --> Router Class Initialized
+INFO - 2018-11-09 11:33:07 --> Output Class Initialized
+INFO - 2018-11-09 11:33:07 --> Security Class Initialized
+DEBUG - 2018-11-09 11:33:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:33:07 --> Input Class Initialized
+INFO - 2018-11-09 11:33:07 --> Language Class Initialized
+INFO - 2018-11-09 11:33:07 --> Loader Class Initialized
+INFO - 2018-11-09 11:33:07 --> Controller Class Initialized
+INFO - 2018-11-09 11:33:07 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:33:07 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:33:07 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:33:07 --> Final output sent to browser
+DEBUG - 2018-11-09 11:33:07 --> Total execution time: 0.0576
+INFO - 2018-11-09 11:33:09 --> Config Class Initialized
+INFO - 2018-11-09 11:33:09 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:33:09 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:33:09 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:33:09 --> URI Class Initialized
+INFO - 2018-11-09 11:33:09 --> Router Class Initialized
+INFO - 2018-11-09 11:33:09 --> Output Class Initialized
+INFO - 2018-11-09 11:33:09 --> Security Class Initialized
+DEBUG - 2018-11-09 11:33:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:33:09 --> Input Class Initialized
+INFO - 2018-11-09 11:33:09 --> Language Class Initialized
+INFO - 2018-11-09 11:33:09 --> Loader Class Initialized
+INFO - 2018-11-09 11:33:09 --> Controller Class Initialized
+INFO - 2018-11-09 11:33:09 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:33:09 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:33:09 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:33:09 --> Final output sent to browser
+DEBUG - 2018-11-09 11:33:09 --> Total execution time: 0.0586
+INFO - 2018-11-09 11:35:15 --> Config Class Initialized
+INFO - 2018-11-09 11:35:15 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:35:15 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:35:15 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:35:15 --> URI Class Initialized
+INFO - 2018-11-09 11:35:15 --> Router Class Initialized
+INFO - 2018-11-09 11:35:15 --> Output Class Initialized
+INFO - 2018-11-09 11:35:15 --> Security Class Initialized
+DEBUG - 2018-11-09 11:35:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:35:15 --> Input Class Initialized
+INFO - 2018-11-09 11:35:15 --> Language Class Initialized
+INFO - 2018-11-09 11:35:15 --> Loader Class Initialized
+INFO - 2018-11-09 11:35:15 --> Controller Class Initialized
+INFO - 2018-11-09 11:35:15 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:35:15 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:35:15 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:35:15 --> Final output sent to browser
+DEBUG - 2018-11-09 11:35:15 --> Total execution time: 0.0941
+INFO - 2018-11-09 11:35:15 --> Config Class Initialized
+INFO - 2018-11-09 11:35:15 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:35:15 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:35:15 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:35:15 --> URI Class Initialized
+INFO - 2018-11-09 11:35:15 --> Router Class Initialized
+INFO - 2018-11-09 11:35:15 --> Output Class Initialized
+INFO - 2018-11-09 11:35:15 --> Security Class Initialized
+DEBUG - 2018-11-09 11:35:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:35:16 --> Input Class Initialized
+INFO - 2018-11-09 11:35:16 --> Language Class Initialized
+INFO - 2018-11-09 11:35:16 --> Loader Class Initialized
+INFO - 2018-11-09 11:35:16 --> Controller Class Initialized
+INFO - 2018-11-09 11:35:16 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:35:16 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:35:16 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:35:16 --> Final output sent to browser
+DEBUG - 2018-11-09 11:35:16 --> Total execution time: 0.0699
+INFO - 2018-11-09 11:35:50 --> Config Class Initialized
+INFO - 2018-11-09 11:35:50 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:35:50 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:35:50 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:35:50 --> URI Class Initialized
+INFO - 2018-11-09 11:35:50 --> Router Class Initialized
+INFO - 2018-11-09 11:35:50 --> Output Class Initialized
+INFO - 2018-11-09 11:35:50 --> Security Class Initialized
+DEBUG - 2018-11-09 11:35:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:35:50 --> Input Class Initialized
+INFO - 2018-11-09 11:35:50 --> Language Class Initialized
+INFO - 2018-11-09 11:35:50 --> Loader Class Initialized
+INFO - 2018-11-09 11:35:50 --> Controller Class Initialized
+INFO - 2018-11-09 11:35:50 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:35:50 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:35:50 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:35:50 --> Final output sent to browser
+DEBUG - 2018-11-09 11:35:50 --> Total execution time: 0.0630
+INFO - 2018-11-09 11:36:27 --> Config Class Initialized
+INFO - 2018-11-09 11:36:27 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:36:27 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:36:27 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:36:27 --> URI Class Initialized
+INFO - 2018-11-09 11:36:27 --> Router Class Initialized
+INFO - 2018-11-09 11:36:27 --> Output Class Initialized
+INFO - 2018-11-09 11:36:27 --> Security Class Initialized
+DEBUG - 2018-11-09 11:36:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:36:27 --> Input Class Initialized
+INFO - 2018-11-09 11:36:27 --> Language Class Initialized
+INFO - 2018-11-09 11:36:27 --> Loader Class Initialized
+INFO - 2018-11-09 11:36:27 --> Controller Class Initialized
+INFO - 2018-11-09 11:36:27 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:36:27 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:36:27 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:36:27 --> Final output sent to browser
+DEBUG - 2018-11-09 11:36:27 --> Total execution time: 0.0982
+INFO - 2018-11-09 11:36:36 --> Config Class Initialized
+INFO - 2018-11-09 11:36:36 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:36:36 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:36:36 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:36:36 --> URI Class Initialized
+INFO - 2018-11-09 11:36:36 --> Router Class Initialized
+INFO - 2018-11-09 11:36:36 --> Output Class Initialized
+INFO - 2018-11-09 11:36:36 --> Security Class Initialized
+DEBUG - 2018-11-09 11:36:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:36:36 --> Input Class Initialized
+INFO - 2018-11-09 11:36:36 --> Language Class Initialized
+INFO - 2018-11-09 11:36:36 --> Loader Class Initialized
+INFO - 2018-11-09 11:36:36 --> Controller Class Initialized
+INFO - 2018-11-09 11:36:36 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:36:36 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:36:36 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:36:36 --> Final output sent to browser
+DEBUG - 2018-11-09 11:36:36 --> Total execution time: 0.0631
+INFO - 2018-11-09 11:37:30 --> Config Class Initialized
+INFO - 2018-11-09 11:37:30 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:37:30 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:37:30 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:37:30 --> URI Class Initialized
+INFO - 2018-11-09 11:37:30 --> Router Class Initialized
+INFO - 2018-11-09 11:37:30 --> Output Class Initialized
+INFO - 2018-11-09 11:37:30 --> Security Class Initialized
+DEBUG - 2018-11-09 11:37:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:37:30 --> Input Class Initialized
+INFO - 2018-11-09 11:37:30 --> Language Class Initialized
+INFO - 2018-11-09 11:37:30 --> Loader Class Initialized
+INFO - 2018-11-09 11:37:30 --> Controller Class Initialized
+INFO - 2018-11-09 11:37:30 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:37:30 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:37:30 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:37:30 --> Final output sent to browser
+DEBUG - 2018-11-09 11:37:30 --> Total execution time: 0.0688
+INFO - 2018-11-09 11:37:35 --> Config Class Initialized
+INFO - 2018-11-09 11:37:35 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:37:35 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:37:35 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:37:35 --> URI Class Initialized
+INFO - 2018-11-09 11:37:35 --> Router Class Initialized
+INFO - 2018-11-09 11:37:35 --> Output Class Initialized
+INFO - 2018-11-09 11:37:35 --> Security Class Initialized
+DEBUG - 2018-11-09 11:37:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:37:35 --> Input Class Initialized
+INFO - 2018-11-09 11:37:35 --> Language Class Initialized
+INFO - 2018-11-09 11:37:35 --> Loader Class Initialized
+INFO - 2018-11-09 11:37:35 --> Controller Class Initialized
+INFO - 2018-11-09 11:37:35 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/header.php
+INFO - 2018-11-09 11:37:35 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/sidebar.php
+INFO - 2018-11-09 11:37:35 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/Dashboard/index.php
+INFO - 2018-11-09 11:37:35 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
+INFO - 2018-11-09 11:37:35 --> Final output sent to browser
+DEBUG - 2018-11-09 11:37:35 --> Total execution time: 0.0564
+INFO - 2018-11-09 11:37:55 --> Config Class Initialized
+INFO - 2018-11-09 11:37:55 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:37:55 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:37:55 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:37:55 --> URI Class Initialized
+INFO - 2018-11-09 11:37:55 --> Router Class Initialized
+INFO - 2018-11-09 11:37:55 --> Output Class Initialized
+INFO - 2018-11-09 11:37:55 --> Security Class Initialized
+DEBUG - 2018-11-09 11:37:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:37:55 --> Input Class Initialized
+INFO - 2018-11-09 11:37:55 --> Language Class Initialized
+INFO - 2018-11-09 11:37:55 --> Loader Class Initialized
+INFO - 2018-11-09 11:37:55 --> Controller Class Initialized
+INFO - 2018-11-09 11:37:55 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:37:55 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:37:55 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:37:55 --> Final output sent to browser
+DEBUG - 2018-11-09 11:37:55 --> Total execution time: 0.0636
+INFO - 2018-11-09 11:37:56 --> Config Class Initialized
+INFO - 2018-11-09 11:37:56 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:37:56 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:37:56 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:37:56 --> URI Class Initialized
+INFO - 2018-11-09 11:37:56 --> Router Class Initialized
+INFO - 2018-11-09 11:37:56 --> Output Class Initialized
+INFO - 2018-11-09 11:37:56 --> Security Class Initialized
+DEBUG - 2018-11-09 11:37:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:37:56 --> Input Class Initialized
+INFO - 2018-11-09 11:37:56 --> Language Class Initialized
+INFO - 2018-11-09 11:37:56 --> Loader Class Initialized
+INFO - 2018-11-09 11:37:56 --> Controller Class Initialized
+INFO - 2018-11-09 11:37:56 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:37:56 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:37:56 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:37:56 --> Final output sent to browser
+DEBUG - 2018-11-09 11:37:56 --> Total execution time: 0.0845
+INFO - 2018-11-09 11:38:01 --> Config Class Initialized
+INFO - 2018-11-09 11:38:01 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:38:01 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:38:01 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:38:01 --> URI Class Initialized
+INFO - 2018-11-09 11:38:01 --> Router Class Initialized
+INFO - 2018-11-09 11:38:01 --> Output Class Initialized
+INFO - 2018-11-09 11:38:01 --> Security Class Initialized
+DEBUG - 2018-11-09 11:38:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:38:01 --> Input Class Initialized
+INFO - 2018-11-09 11:38:01 --> Language Class Initialized
+INFO - 2018-11-09 11:38:01 --> Loader Class Initialized
+INFO - 2018-11-09 11:38:01 --> Controller Class Initialized
+INFO - 2018-11-09 11:38:01 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/header.php
+INFO - 2018-11-09 11:38:01 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/sidebar.php
+INFO - 2018-11-09 11:38:01 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/Dashboard/index.php
+INFO - 2018-11-09 11:38:01 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
+INFO - 2018-11-09 11:38:01 --> Final output sent to browser
+DEBUG - 2018-11-09 11:38:01 --> Total execution time: 0.0584
+INFO - 2018-11-09 11:38:29 --> Config Class Initialized
+INFO - 2018-11-09 11:38:29 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:38:29 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:38:29 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:38:29 --> URI Class Initialized
+INFO - 2018-11-09 11:38:29 --> Router Class Initialized
+INFO - 2018-11-09 11:38:29 --> Output Class Initialized
+INFO - 2018-11-09 11:38:29 --> Security Class Initialized
+DEBUG - 2018-11-09 11:38:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:38:30 --> Input Class Initialized
+INFO - 2018-11-09 11:38:30 --> Language Class Initialized
+INFO - 2018-11-09 11:38:30 --> Loader Class Initialized
+INFO - 2018-11-09 11:38:30 --> Controller Class Initialized
+INFO - 2018-11-09 11:38:30 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:38:30 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:38:30 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:38:30 --> Final output sent to browser
+DEBUG - 2018-11-09 11:38:30 --> Total execution time: 0.1001
+INFO - 2018-11-09 11:38:33 --> Config Class Initialized
+INFO - 2018-11-09 11:38:33 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:38:33 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:38:33 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:38:33 --> URI Class Initialized
+INFO - 2018-11-09 11:38:33 --> Router Class Initialized
+INFO - 2018-11-09 11:38:33 --> Output Class Initialized
+INFO - 2018-11-09 11:38:33 --> Security Class Initialized
+DEBUG - 2018-11-09 11:38:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:38:33 --> Input Class Initialized
+INFO - 2018-11-09 11:38:33 --> Language Class Initialized
+INFO - 2018-11-09 11:38:33 --> Loader Class Initialized
+INFO - 2018-11-09 11:38:33 --> Controller Class Initialized
+INFO - 2018-11-09 11:38:33 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/header.php
+INFO - 2018-11-09 11:38:33 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/sidebar.php
+INFO - 2018-11-09 11:38:33 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/Dashboard/index.php
+INFO - 2018-11-09 11:38:33 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/templates/footer.php
+INFO - 2018-11-09 11:38:33 --> Final output sent to browser
+DEBUG - 2018-11-09 11:38:33 --> Total execution time: 0.0577
+INFO - 2018-11-09 11:38:38 --> Config Class Initialized
+INFO - 2018-11-09 11:38:38 --> Hooks Class Initialized
+DEBUG - 2018-11-09 11:38:38 --> UTF-8 Support Enabled
+INFO - 2018-11-09 11:38:38 --> Utf8 Class Initialized
+INFO - 2018-11-09 11:38:38 --> URI Class Initialized
+INFO - 2018-11-09 11:38:38 --> Router Class Initialized
+INFO - 2018-11-09 11:38:38 --> Output Class Initialized
+INFO - 2018-11-09 11:38:38 --> Security Class Initialized
+DEBUG - 2018-11-09 11:38:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 11:38:38 --> Input Class Initialized
+INFO - 2018-11-09 11:38:38 --> Language Class Initialized
+INFO - 2018-11-09 11:38:38 --> Loader Class Initialized
+INFO - 2018-11-09 11:38:38 --> Controller Class Initialized
+INFO - 2018-11-09 11:38:38 --> Database Driver Class Initialized
+INFO - 2018-11-09 11:38:38 --> Model "Login_model" initialized
+INFO - 2018-11-09 11:38:38 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 11:38:38 --> Final output sent to browser
+DEBUG - 2018-11-09 11:38:38 --> Total execution time: 0.1270
+INFO - 2018-11-09 12:08:35 --> Config Class Initialized
+INFO - 2018-11-09 12:08:35 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:08:35 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:08:35 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:08:35 --> URI Class Initialized
+INFO - 2018-11-09 12:08:35 --> Router Class Initialized
+INFO - 2018-11-09 12:08:35 --> Output Class Initialized
+INFO - 2018-11-09 12:08:35 --> Security Class Initialized
+DEBUG - 2018-11-09 12:08:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:08:35 --> Input Class Initialized
+INFO - 2018-11-09 12:08:35 --> Language Class Initialized
+INFO - 2018-11-09 12:08:35 --> Loader Class Initialized
+INFO - 2018-11-09 12:08:35 --> Controller Class Initialized
+INFO - 2018-11-09 12:08:35 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:08:35 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:08:35 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:08:35 --> Final output sent to browser
+DEBUG - 2018-11-09 12:08:35 --> Total execution time: 0.1169
+INFO - 2018-11-09 12:08:58 --> Config Class Initialized
+INFO - 2018-11-09 12:08:58 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:08:58 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:08:58 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:08:58 --> URI Class Initialized
+INFO - 2018-11-09 12:08:58 --> Router Class Initialized
+INFO - 2018-11-09 12:08:58 --> Output Class Initialized
+INFO - 2018-11-09 12:08:58 --> Security Class Initialized
+DEBUG - 2018-11-09 12:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:08:58 --> Input Class Initialized
+INFO - 2018-11-09 12:08:58 --> Language Class Initialized
+INFO - 2018-11-09 12:08:58 --> Loader Class Initialized
+INFO - 2018-11-09 12:08:58 --> Controller Class Initialized
+INFO - 2018-11-09 12:08:58 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:08:58 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:08:58 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:08:58 --> Final output sent to browser
+DEBUG - 2018-11-09 12:08:58 --> Total execution time: 0.0833
+INFO - 2018-11-09 12:09:15 --> Config Class Initialized
+INFO - 2018-11-09 12:09:16 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:09:16 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:16 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:09:16 --> URI Class Initialized
+INFO - 2018-11-09 12:09:16 --> Router Class Initialized
+INFO - 2018-11-09 12:09:16 --> Output Class Initialized
+INFO - 2018-11-09 12:09:16 --> Security Class Initialized
+DEBUG - 2018-11-09 12:09:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:16 --> Input Class Initialized
+INFO - 2018-11-09 12:09:16 --> Language Class Initialized
+INFO - 2018-11-09 12:09:16 --> Loader Class Initialized
+INFO - 2018-11-09 12:09:16 --> Controller Class Initialized
+INFO - 2018-11-09 12:09:16 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:09:16 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:09:16 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:09:16 --> Final output sent to browser
+DEBUG - 2018-11-09 12:09:16 --> Total execution time: 0.0776
+INFO - 2018-11-09 12:09:22 --> Config Class Initialized
+INFO - 2018-11-09 12:09:22 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:09:22 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:22 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:09:22 --> URI Class Initialized
+INFO - 2018-11-09 12:09:22 --> Router Class Initialized
+INFO - 2018-11-09 12:09:22 --> Output Class Initialized
+INFO - 2018-11-09 12:09:22 --> Security Class Initialized
+DEBUG - 2018-11-09 12:09:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:22 --> Input Class Initialized
+INFO - 2018-11-09 12:09:22 --> Language Class Initialized
+ERROR - 2018-11-09 12:09:22 --> 404 Page Not Found: admin/VerifyLogin/index
+INFO - 2018-11-09 12:09:33 --> Config Class Initialized
+INFO - 2018-11-09 12:09:33 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:09:33 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:33 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:09:33 --> URI Class Initialized
+INFO - 2018-11-09 12:09:33 --> Router Class Initialized
+INFO - 2018-11-09 12:09:33 --> Output Class Initialized
+INFO - 2018-11-09 12:09:33 --> Security Class Initialized
+DEBUG - 2018-11-09 12:09:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:33 --> Input Class Initialized
+INFO - 2018-11-09 12:09:33 --> Language Class Initialized
+INFO - 2018-11-09 12:09:33 --> Loader Class Initialized
+INFO - 2018-11-09 12:09:33 --> Controller Class Initialized
+INFO - 2018-11-09 12:09:33 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:09:33 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:09:33 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:09:33 --> Final output sent to browser
+DEBUG - 2018-11-09 12:09:33 --> Total execution time: 0.0895
+INFO - 2018-11-09 12:09:33 --> Config Class Initialized
+INFO - 2018-11-09 12:09:33 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:34 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:09:34 --> Config Class Initialized
+INFO - 2018-11-09 12:09:34 --> Hooks Class Initialized
+INFO - 2018-11-09 12:09:34 --> URI Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:34 --> Router Class Initialized
+INFO - 2018-11-09 12:09:34 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:09:34 --> URI Class Initialized
+INFO - 2018-11-09 12:09:34 --> Config Class Initialized
+INFO - 2018-11-09 12:09:34 --> Output Class Initialized
+INFO - 2018-11-09 12:09:34 --> Hooks Class Initialized
+INFO - 2018-11-09 12:09:34 --> Router Class Initialized
+INFO - 2018-11-09 12:09:34 --> Security Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:34 --> Output Class Initialized
+INFO - 2018-11-09 12:09:34 --> Utf8 Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:34 --> Security Class Initialized
+INFO - 2018-11-09 12:09:34 --> URI Class Initialized
+INFO - 2018-11-09 12:09:34 --> Input Class Initialized
+INFO - 2018-11-09 12:09:34 --> Config Class Initialized
+INFO - 2018-11-09 12:09:34 --> Config Class Initialized
+INFO - 2018-11-09 12:09:34 --> Language Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:34 --> Hooks Class Initialized
+INFO - 2018-11-09 12:09:34 --> Input Class Initialized
+INFO - 2018-11-09 12:09:34 --> Router Class Initialized
+INFO - 2018-11-09 12:09:34 --> Hooks Class Initialized
+INFO - 2018-11-09 12:09:34 --> Loader Class Initialized
+INFO - 2018-11-09 12:09:34 --> Language Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:34 --> Controller Class Initialized
+INFO - 2018-11-09 12:09:34 --> Output Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:34 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:09:34 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:09:34 --> Loader Class Initialized
+INFO - 2018-11-09 12:09:34 --> Security Class Initialized
+INFO - 2018-11-09 12:09:34 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:09:34 --> URI Class Initialized
+INFO - 2018-11-09 12:09:34 --> URI Class Initialized
+INFO - 2018-11-09 12:09:34 --> Controller Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:34 --> Router Class Initialized
+INFO - 2018-11-09 12:09:34 --> Router Class Initialized
+INFO - 2018-11-09 12:09:34 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:09:34 --> Input Class Initialized
+INFO - 2018-11-09 12:09:34 --> Output Class Initialized
+INFO - 2018-11-09 12:09:34 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:09:34 --> Output Class Initialized
+INFO - 2018-11-09 12:09:34 --> Final output sent to browser
+INFO - 2018-11-09 12:09:34 --> Security Class Initialized
+INFO - 2018-11-09 12:09:34 --> Security Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> Total execution time: 0.2335
+INFO - 2018-11-09 12:09:34 --> Database Driver Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:34 --> Language Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:34 --> Input Class Initialized
+INFO - 2018-11-09 12:09:34 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:09:34 --> Input Class Initialized
+INFO - 2018-11-09 12:09:34 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:09:34 --> Language Class Initialized
+INFO - 2018-11-09 12:09:34 --> Loader Class Initialized
+INFO - 2018-11-09 12:09:34 --> Language Class Initialized
+INFO - 2018-11-09 12:09:34 --> Final output sent to browser
+INFO - 2018-11-09 12:09:34 --> Controller Class Initialized
+DEBUG - 2018-11-09 12:09:34 --> Total execution time: 0.2297
+INFO - 2018-11-09 12:09:34 --> Loader Class Initialized
+INFO - 2018-11-09 12:09:34 --> Loader Class Initialized
+INFO - 2018-11-09 12:09:34 --> Controller Class Initialized
+INFO - 2018-11-09 12:09:34 --> Controller Class Initialized
+INFO - 2018-11-09 12:09:34 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:09:34 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:09:34 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:09:34 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:09:34 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:09:34 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:09:34 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:09:34 --> Final output sent to browser
+INFO - 2018-11-09 12:09:34 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:09:34 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+DEBUG - 2018-11-09 12:09:34 --> Total execution time: 0.2374
+INFO - 2018-11-09 12:09:34 --> Final output sent to browser
+INFO - 2018-11-09 12:09:34 --> Final output sent to browser
+DEBUG - 2018-11-09 12:09:34 --> Total execution time: 0.1753
+DEBUG - 2018-11-09 12:09:34 --> Total execution time: 0.2013
+INFO - 2018-11-09 12:09:38 --> Config Class Initialized
+INFO - 2018-11-09 12:09:38 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:09:38 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:38 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:09:38 --> URI Class Initialized
+INFO - 2018-11-09 12:09:38 --> Router Class Initialized
+INFO - 2018-11-09 12:09:38 --> Output Class Initialized
+INFO - 2018-11-09 12:09:38 --> Security Class Initialized
+DEBUG - 2018-11-09 12:09:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:38 --> Input Class Initialized
+INFO - 2018-11-09 12:09:38 --> Language Class Initialized
+INFO - 2018-11-09 12:09:38 --> Loader Class Initialized
+INFO - 2018-11-09 12:09:38 --> Controller Class Initialized
+INFO - 2018-11-09 12:09:38 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:09:38 --> Model "Login_model" initialized
+ERROR - 2018-11-09 12:09:38 --> Severity: error --> Exception: Call to undefined function _x() E:\wamp64\www\practice\newhelpdesk\application\controllers\admin\Login.php 17
+INFO - 2018-11-09 12:09:50 --> Config Class Initialized
+INFO - 2018-11-09 12:09:50 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:09:50 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:50 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:09:50 --> URI Class Initialized
+INFO - 2018-11-09 12:09:50 --> Router Class Initialized
+INFO - 2018-11-09 12:09:50 --> Output Class Initialized
+INFO - 2018-11-09 12:09:50 --> Security Class Initialized
+DEBUG - 2018-11-09 12:09:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:50 --> Input Class Initialized
+INFO - 2018-11-09 12:09:50 --> Language Class Initialized
+INFO - 2018-11-09 12:09:50 --> Loader Class Initialized
+INFO - 2018-11-09 12:09:50 --> Controller Class Initialized
+INFO - 2018-11-09 12:09:50 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:09:50 --> Model "Login_model" initialized
+ERROR - 2018-11-09 12:09:50 --> Severity: error --> Exception: Call to undefined function _x() E:\wamp64\www\practice\newhelpdesk\application\controllers\admin\Login.php 17
+INFO - 2018-11-09 12:09:53 --> Config Class Initialized
+INFO - 2018-11-09 12:09:53 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:09:53 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:53 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:09:53 --> URI Class Initialized
+INFO - 2018-11-09 12:09:53 --> Router Class Initialized
+INFO - 2018-11-09 12:09:53 --> Output Class Initialized
+INFO - 2018-11-09 12:09:53 --> Security Class Initialized
+DEBUG - 2018-11-09 12:09:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:53 --> Input Class Initialized
+INFO - 2018-11-09 12:09:53 --> Language Class Initialized
+INFO - 2018-11-09 12:09:53 --> Loader Class Initialized
+INFO - 2018-11-09 12:09:53 --> Controller Class Initialized
+INFO - 2018-11-09 12:09:53 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:09:53 --> Model "Login_model" initialized
+ERROR - 2018-11-09 12:09:53 --> Severity: error --> Exception: Call to undefined function _x() E:\wamp64\www\practice\newhelpdesk\application\controllers\admin\Login.php 17
+INFO - 2018-11-09 12:09:56 --> Config Class Initialized
+INFO - 2018-11-09 12:09:56 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:09:56 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:09:56 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:09:56 --> URI Class Initialized
+INFO - 2018-11-09 12:09:56 --> Router Class Initialized
+INFO - 2018-11-09 12:09:56 --> Output Class Initialized
+INFO - 2018-11-09 12:09:56 --> Security Class Initialized
+DEBUG - 2018-11-09 12:09:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:09:56 --> Input Class Initialized
+INFO - 2018-11-09 12:09:56 --> Language Class Initialized
+INFO - 2018-11-09 12:09:56 --> Loader Class Initialized
+INFO - 2018-11-09 12:09:56 --> Controller Class Initialized
+INFO - 2018-11-09 12:09:56 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:09:56 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:09:56 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:09:56 --> Final output sent to browser
+DEBUG - 2018-11-09 12:09:56 --> Total execution time: 0.0694
+INFO - 2018-11-09 12:10:00 --> Config Class Initialized
+INFO - 2018-11-09 12:10:00 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:10:00 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:10:00 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:10:00 --> URI Class Initialized
+INFO - 2018-11-09 12:10:00 --> Router Class Initialized
+INFO - 2018-11-09 12:10:00 --> Output Class Initialized
+INFO - 2018-11-09 12:10:00 --> Security Class Initialized
+DEBUG - 2018-11-09 12:10:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:10:00 --> Input Class Initialized
+INFO - 2018-11-09 12:10:00 --> Language Class Initialized
+INFO - 2018-11-09 12:10:00 --> Loader Class Initialized
+INFO - 2018-11-09 12:10:00 --> Controller Class Initialized
+INFO - 2018-11-09 12:10:00 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:10:00 --> Model "Login_model" initialized
+ERROR - 2018-11-09 12:10:00 --> Severity: error --> Exception: Call to undefined function _x() E:\wamp64\www\practice\newhelpdesk\application\controllers\admin\Login.php 17
+INFO - 2018-11-09 12:10:13 --> Config Class Initialized
+INFO - 2018-11-09 12:10:13 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:10:13 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:10:13 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:10:13 --> URI Class Initialized
+INFO - 2018-11-09 12:10:13 --> Router Class Initialized
+INFO - 2018-11-09 12:10:13 --> Output Class Initialized
+INFO - 2018-11-09 12:10:13 --> Security Class Initialized
+DEBUG - 2018-11-09 12:10:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:10:13 --> Input Class Initialized
+INFO - 2018-11-09 12:10:13 --> Language Class Initialized
+INFO - 2018-11-09 12:10:13 --> Loader Class Initialized
+INFO - 2018-11-09 12:10:13 --> Controller Class Initialized
+INFO - 2018-11-09 12:10:13 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:10:13 --> Model "Login_model" initialized
+ERROR - 2018-11-09 12:10:13 --> Severity: error --> Exception: Call to undefined function _x() E:\wamp64\www\practice\newhelpdesk\application\controllers\admin\Login.php 17
+INFO - 2018-11-09 12:14:27 --> Config Class Initialized
+INFO - 2018-11-09 12:14:27 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:14:27 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:14:27 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:14:27 --> URI Class Initialized
+INFO - 2018-11-09 12:14:27 --> Router Class Initialized
+INFO - 2018-11-09 12:14:27 --> Output Class Initialized
+INFO - 2018-11-09 12:14:27 --> Security Class Initialized
+DEBUG - 2018-11-09 12:14:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:14:27 --> Input Class Initialized
+INFO - 2018-11-09 12:14:27 --> Language Class Initialized
+INFO - 2018-11-09 12:14:27 --> Loader Class Initialized
+ERROR - 2018-11-09 12:14:27 --> Severity: Notice --> Use of undefined constant _x - assumed '_x' E:\wamp64\www\practice\newhelpdesk\application\helpers\site_helper.php 4
+INFO - 2018-11-09 12:14:27 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:14:27 --> Controller Class Initialized
+INFO - 2018-11-09 12:14:27 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:14:27 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:14:46 --> Config Class Initialized
+INFO - 2018-11-09 12:14:46 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:14:46 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:14:46 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:14:46 --> URI Class Initialized
+INFO - 2018-11-09 12:14:46 --> Router Class Initialized
+INFO - 2018-11-09 12:14:46 --> Output Class Initialized
+INFO - 2018-11-09 12:14:46 --> Security Class Initialized
+DEBUG - 2018-11-09 12:14:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:14:46 --> Input Class Initialized
+INFO - 2018-11-09 12:14:46 --> Language Class Initialized
+INFO - 2018-11-09 12:14:46 --> Loader Class Initialized
+INFO - 2018-11-09 12:14:46 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:14:46 --> Controller Class Initialized
+INFO - 2018-11-09 12:14:46 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:14:46 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:14:57 --> Config Class Initialized
+INFO - 2018-11-09 12:14:57 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:14:57 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:14:57 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:14:57 --> URI Class Initialized
+INFO - 2018-11-09 12:14:57 --> Router Class Initialized
+INFO - 2018-11-09 12:14:57 --> Output Class Initialized
+INFO - 2018-11-09 12:14:57 --> Security Class Initialized
+DEBUG - 2018-11-09 12:14:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:14:57 --> Input Class Initialized
+INFO - 2018-11-09 12:14:57 --> Language Class Initialized
+INFO - 2018-11-09 12:14:57 --> Loader Class Initialized
+INFO - 2018-11-09 12:14:57 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:14:57 --> Controller Class Initialized
+INFO - 2018-11-09 12:14:57 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:14:57 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:14:57 --> Final output sent to browser
+DEBUG - 2018-11-09 12:14:57 --> Total execution time: 0.0676
+INFO - 2018-11-09 12:15:08 --> Config Class Initialized
+INFO - 2018-11-09 12:15:08 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:15:08 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:15:08 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:15:08 --> URI Class Initialized
+INFO - 2018-11-09 12:15:08 --> Router Class Initialized
+INFO - 2018-11-09 12:15:09 --> Output Class Initialized
+INFO - 2018-11-09 12:15:09 --> Security Class Initialized
+DEBUG - 2018-11-09 12:15:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:15:09 --> Input Class Initialized
+INFO - 2018-11-09 12:15:09 --> Language Class Initialized
+INFO - 2018-11-09 12:15:09 --> Loader Class Initialized
+INFO - 2018-11-09 12:15:09 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:15:09 --> Controller Class Initialized
+INFO - 2018-11-09 12:15:09 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:15:09 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:15:09 --> Final output sent to browser
+DEBUG - 2018-11-09 12:15:09 --> Total execution time: 0.0670
+INFO - 2018-11-09 12:15:14 --> Config Class Initialized
+INFO - 2018-11-09 12:15:14 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:15:14 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:15:14 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:15:14 --> URI Class Initialized
+INFO - 2018-11-09 12:15:14 --> Router Class Initialized
+INFO - 2018-11-09 12:15:14 --> Output Class Initialized
+INFO - 2018-11-09 12:15:14 --> Security Class Initialized
+DEBUG - 2018-11-09 12:15:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:15:14 --> Input Class Initialized
+INFO - 2018-11-09 12:15:14 --> Language Class Initialized
+INFO - 2018-11-09 12:15:14 --> Loader Class Initialized
+INFO - 2018-11-09 12:15:14 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:15:14 --> Controller Class Initialized
+INFO - 2018-11-09 12:15:14 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:15:14 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:15:23 --> Config Class Initialized
+INFO - 2018-11-09 12:15:23 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:15:23 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:15:23 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:15:23 --> URI Class Initialized
+INFO - 2018-11-09 12:15:23 --> Router Class Initialized
+INFO - 2018-11-09 12:15:23 --> Output Class Initialized
+INFO - 2018-11-09 12:15:23 --> Security Class Initialized
+DEBUG - 2018-11-09 12:15:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:15:23 --> Input Class Initialized
+INFO - 2018-11-09 12:15:23 --> Language Class Initialized
+INFO - 2018-11-09 12:15:23 --> Loader Class Initialized
+INFO - 2018-11-09 12:15:23 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:15:23 --> Controller Class Initialized
+INFO - 2018-11-09 12:15:23 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:15:23 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:15:23 --> Final output sent to browser
+DEBUG - 2018-11-09 12:15:23 --> Total execution time: 0.0599
+INFO - 2018-11-09 12:15:26 --> Config Class Initialized
+INFO - 2018-11-09 12:15:26 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:15:26 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:15:26 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:15:26 --> URI Class Initialized
+INFO - 2018-11-09 12:15:26 --> Router Class Initialized
+INFO - 2018-11-09 12:15:26 --> Output Class Initialized
+INFO - 2018-11-09 12:15:26 --> Security Class Initialized
+DEBUG - 2018-11-09 12:15:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:15:26 --> Input Class Initialized
+INFO - 2018-11-09 12:15:26 --> Language Class Initialized
+INFO - 2018-11-09 12:15:26 --> Loader Class Initialized
+INFO - 2018-11-09 12:15:26 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:15:26 --> Controller Class Initialized
+INFO - 2018-11-09 12:15:26 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:15:26 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:15:26 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:15:26 --> Final output sent to browser
+DEBUG - 2018-11-09 12:15:26 --> Total execution time: 0.0846
+INFO - 2018-11-09 12:22:09 --> Config Class Initialized
+INFO - 2018-11-09 12:22:09 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:22:09 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:22:09 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:22:09 --> URI Class Initialized
+INFO - 2018-11-09 12:22:09 --> Router Class Initialized
+INFO - 2018-11-09 12:22:09 --> Output Class Initialized
+INFO - 2018-11-09 12:22:09 --> Security Class Initialized
+DEBUG - 2018-11-09 12:22:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:22:09 --> Input Class Initialized
+INFO - 2018-11-09 12:22:09 --> Language Class Initialized
+INFO - 2018-11-09 12:22:09 --> Loader Class Initialized
+INFO - 2018-11-09 12:22:09 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:22:09 --> Controller Class Initialized
+INFO - 2018-11-09 12:22:09 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:22:09 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:22:09 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:22:09 --> Final output sent to browser
+DEBUG - 2018-11-09 12:22:09 --> Total execution time: 0.0730
+INFO - 2018-11-09 12:22:15 --> Config Class Initialized
+INFO - 2018-11-09 12:22:15 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:22:15 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:22:15 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:22:15 --> URI Class Initialized
+INFO - 2018-11-09 12:22:15 --> Router Class Initialized
+INFO - 2018-11-09 12:22:15 --> Output Class Initialized
+INFO - 2018-11-09 12:22:15 --> Security Class Initialized
+DEBUG - 2018-11-09 12:22:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:22:15 --> Input Class Initialized
+INFO - 2018-11-09 12:22:15 --> Language Class Initialized
+INFO - 2018-11-09 12:22:15 --> Loader Class Initialized
+INFO - 2018-11-09 12:22:15 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:22:15 --> Controller Class Initialized
+INFO - 2018-11-09 12:22:15 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:22:15 --> Model "Login_model" initialized
+ERROR - 2018-11-09 12:22:15 --> Severity: Notice --> Undefined property: Login::$session E:\wamp64\www\practice\newhelpdesk\application\controllers\admin\Login.php 18
+ERROR - 2018-11-09 12:22:15 --> Severity: error --> Exception: Call to a member function userdata() on null E:\wamp64\www\practice\newhelpdesk\application\controllers\admin\Login.php 18
+INFO - 2018-11-09 12:22:38 --> Config Class Initialized
+INFO - 2018-11-09 12:22:38 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:22:38 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:22:38 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:22:38 --> URI Class Initialized
+INFO - 2018-11-09 12:22:38 --> Router Class Initialized
+INFO - 2018-11-09 12:22:38 --> Output Class Initialized
+INFO - 2018-11-09 12:22:38 --> Security Class Initialized
+DEBUG - 2018-11-09 12:22:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:22:38 --> Input Class Initialized
+INFO - 2018-11-09 12:22:38 --> Language Class Initialized
+INFO - 2018-11-09 12:22:38 --> Loader Class Initialized
+INFO - 2018-11-09 12:22:38 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:22:38 --> Controller Class Initialized
+DEBUG - 2018-11-09 12:22:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-11-09 12:22:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-11-09 12:22:38 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:22:38 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:22:38 --> Final output sent to browser
+DEBUG - 2018-11-09 12:22:38 --> Total execution time: 0.2339
+INFO - 2018-11-09 12:22:41 --> Config Class Initialized
+INFO - 2018-11-09 12:22:41 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:22:41 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:22:41 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:22:41 --> URI Class Initialized
+INFO - 2018-11-09 12:22:41 --> Router Class Initialized
+INFO - 2018-11-09 12:22:41 --> Output Class Initialized
+INFO - 2018-11-09 12:22:41 --> Security Class Initialized
+DEBUG - 2018-11-09 12:22:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:22:41 --> Input Class Initialized
+INFO - 2018-11-09 12:22:41 --> Language Class Initialized
+INFO - 2018-11-09 12:22:41 --> Loader Class Initialized
+INFO - 2018-11-09 12:22:41 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:22:41 --> Controller Class Initialized
+DEBUG - 2018-11-09 12:22:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-11-09 12:22:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-11-09 12:22:41 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:22:41 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:22:41 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:22:41 --> Final output sent to browser
+DEBUG - 2018-11-09 12:22:41 --> Total execution time: 0.0923
+INFO - 2018-11-09 12:22:45 --> Config Class Initialized
+INFO - 2018-11-09 12:22:45 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:22:45 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:22:45 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:22:45 --> URI Class Initialized
+INFO - 2018-11-09 12:22:45 --> Router Class Initialized
+INFO - 2018-11-09 12:22:45 --> Output Class Initialized
+INFO - 2018-11-09 12:22:45 --> Security Class Initialized
+DEBUG - 2018-11-09 12:22:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:22:45 --> Input Class Initialized
+INFO - 2018-11-09 12:22:45 --> Language Class Initialized
+INFO - 2018-11-09 12:22:45 --> Loader Class Initialized
+INFO - 2018-11-09 12:22:45 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:22:45 --> Controller Class Initialized
+DEBUG - 2018-11-09 12:22:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-11-09 12:22:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-11-09 12:22:45 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:22:45 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:22:45 --> Final output sent to browser
+DEBUG - 2018-11-09 12:22:45 --> Total execution time: 0.0781
+INFO - 2018-11-09 12:22:50 --> Config Class Initialized
+INFO - 2018-11-09 12:22:50 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:22:50 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:22:50 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:22:50 --> URI Class Initialized
+INFO - 2018-11-09 12:22:50 --> Router Class Initialized
+INFO - 2018-11-09 12:22:50 --> Output Class Initialized
+INFO - 2018-11-09 12:22:50 --> Security Class Initialized
+DEBUG - 2018-11-09 12:22:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:22:50 --> Input Class Initialized
+INFO - 2018-11-09 12:22:50 --> Language Class Initialized
+INFO - 2018-11-09 12:22:50 --> Loader Class Initialized
+INFO - 2018-11-09 12:22:50 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:22:50 --> Controller Class Initialized
+DEBUG - 2018-11-09 12:22:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-11-09 12:22:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-11-09 12:22:50 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:22:50 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:22:51 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:22:51 --> Final output sent to browser
+DEBUG - 2018-11-09 12:22:51 --> Total execution time: 0.0748
+INFO - 2018-11-09 12:22:52 --> Config Class Initialized
+INFO - 2018-11-09 12:22:52 --> Hooks Class Initialized
+DEBUG - 2018-11-09 12:22:52 --> UTF-8 Support Enabled
+INFO - 2018-11-09 12:22:52 --> Utf8 Class Initialized
+INFO - 2018-11-09 12:22:52 --> URI Class Initialized
+INFO - 2018-11-09 12:22:52 --> Router Class Initialized
+INFO - 2018-11-09 12:22:52 --> Output Class Initialized
+INFO - 2018-11-09 12:22:52 --> Security Class Initialized
+DEBUG - 2018-11-09 12:22:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-11-09 12:22:52 --> Input Class Initialized
+INFO - 2018-11-09 12:22:52 --> Language Class Initialized
+INFO - 2018-11-09 12:22:52 --> Loader Class Initialized
+INFO - 2018-11-09 12:22:52 --> Helper loaded: site_helper
+INFO - 2018-11-09 12:22:52 --> Controller Class Initialized
+DEBUG - 2018-11-09 12:22:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-11-09 12:22:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-11-09 12:22:52 --> Database Driver Class Initialized
+INFO - 2018-11-09 12:22:52 --> Model "Login_model" initialized
+INFO - 2018-11-09 12:22:52 --> File loaded: E:\wamp64\www\practice\newhelpdesk\application\views\admin/login.php
+INFO - 2018-11-09 12:22:52 --> Final output sent to browser
+DEBUG - 2018-11-09 12:22:52 --> Total execution time: 0.0704
